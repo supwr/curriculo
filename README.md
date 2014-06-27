@@ -46,7 +46,7 @@ Informática para gestão de Negócios
 
 ###Experiência Profissional: 
 
-**07/2013 CRM Zen / Wsoma Soluções Web**
+**07/2013 - CRM Zen / Wsoma Soluções Web**
 
 Atribuições do cargo: 
 
@@ -57,7 +57,7 @@ Atribuições do cargo:
 * Programação Javascript(Jquery,NodeJs) 
 
 
-**06/2013 – 07/2013 Mkt Virtual** 
+**06/2013 a 07/2013 - Mkt Virtual** 
 
 Atribuições do cargo: 
 
@@ -68,7 +68,7 @@ Atribuições do cargo:
 * Programação Javascript, JQuery. 
  
 
-**02/2013 - 06/2013 Serviço Semafórico do Porto de Santos** 
+**02/2013 a 06/2013 - Serviço Semafórico do Porto de Santos** 
 
 Atribuições do cargo: 
 
@@ -78,7 +78,7 @@ Atribuições do cargo:
 * Programação Javascript, JQuery. 
  
 
-**10/2012 - 01/2013 DevPartner – TI em gestão e relacionamento**
+**10/2012 a 01/2013 - DevPartner – TI em gestão e relacionamento**
 
 Atribuições do cargo: 
 
@@ -87,7 +87,7 @@ Atribuições do cargo:
 * Desenvolvimento Microsoft Dynamics CRM; 
 * Programação Javascript, JQuery. 
  
-**05/2011 – 10/2012 I.L.O Comercio de Materiais de Informática LTDA.**
+**05/2011 a 10/2012 - I.L.O Comercio de Materiais de Informática LTDA.**
 
 Atribuições do cargo:
 
@@ -116,7 +116,7 @@ Atribuições do cargo:
  * Arquitetura e criação de banco de dados e rotinas em SQL 2005;
  * Criação de procedures, consultas, entre outras funções na linguagem SQL.
 
-**09/2008 a 12/2010 - Cardoso & Oliveira LTDA**
+**06/2010 a 12/2010 - Cardoso & Oliveira LTDA**
 
 Atribuições do cargo:
 
