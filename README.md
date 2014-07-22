@@ -8,11 +8,11 @@ Guarujá - SP
 ###Formação Acadêmica
 
 Análise e Desenvolvimento de Sistemas
-<br>FATEC – BS - Faculdade de Tecnologia da Baixada Santista</br> 
+<br>FATEC Baixada Santista - Rubens Lara</br> 
 <br>Conclusão em 07/2017</br> 
 
 Informática para gestão de Negócios
-<br>FATEC – BS - Faculdade de Tecnologia da Baixada Santista</br> 
+<br>FATEC Baixada Santista - Rubens Lara</br> 
 <br>Conclusão em 12/2009</br> 
 
 ###Projetos extracurriculares
