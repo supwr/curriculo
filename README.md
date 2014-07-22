@@ -3,9 +3,13 @@
 Guarujá - SP
 <br>Cel.: (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
-<br>25 anos</br>
+<br>26 anos</br>
 
 ###Formação Acadêmica
+
+Análise e Desenvolvimento de Sistemas
+<br>FATEC – BS - Faculdade de Tecnologia da Baixada Santista</br> 
+<br>Conclusão em 07/2017</br> 
 
 Informática para gestão de Negócios
 <br>FATEC – BS - Faculdade de Tecnologia da Baixada Santista</br> 
