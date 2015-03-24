@@ -7,10 +7,6 @@ Guarujá - SP
 
 ###Formação Acadêmica
 
-Análise e Desenvolvimento de Sistemas
-<br>FATEC Baixada Santista - Rubens Lara</br> 
-<br>Conclusão em 07/2017</br> 
-
 Informática para gestão de Negócios
 <br>FATEC Baixada Santista - Rubens Lara</br> 
 <br>Conclusão em 12/2009</br> 
@@ -23,8 +19,8 @@ Informática para gestão de Negócios
  
 ###Conhecimentos
 
+* PHP
 * ASP 
-* PHP/CakePHP
 * Ruby on Rails
 * Git
 * Ambiente Heroku
@@ -50,15 +46,24 @@ Informática para gestão de Negócios
 
 ###Experiência Profissional: 
 
-**07/2013 - CRM Zen / Wsoma Soluções Web**
+**03/2015 - Zap Trade IT & ECM Solutions**
 
 Atribuições do cargo: 
 
-* Programação ASP; 
-* Programação .NET(C#) 
-* Desenvolvimento HTML, CSS, Jquery 
-* Programação SQL
-* Programação Javascript(Jquery,NodeJs) 
+* Programação PHP; 
+* Desenvolvimento HTML, CSS, Javascript, Jquery; 
+* Programação MySQL.
+
+
+**07/2013 a 03/2015 - CRM Zen / Wsoma Soluções Web**
+
+Atribuições do cargo: 
+
+* Programação ASP;
+* Programação .NET(C#); 
+* Desenvolvimento HTML, CSS, Jquery; 
+* Programação SQL;
+* Programação Javascript(Jquery,NodeJs). 
 
 
 **06/2013 a 07/2013 - Mkt Virtual** 
@@ -66,8 +71,8 @@ Atribuições do cargo:
 Atribuições do cargo: 
 
 * Programação PHP; 
-* Programação CakePHP 
-* Desenvolvimento HTML, CSS, Jquery 
+* Programação CakePHP;
+* Desenvolvimento HTML, CSS; 
 * Programação MySQL; 
 * Programação Javascript, JQuery. 
  
@@ -77,7 +82,7 @@ Atribuições do cargo:
 Atribuições do cargo: 
 
 * Programação ASP.NET, C#; 
-* Desenvolvimento HTML, CSS, Jquery
+* Desenvolvimento HTML, CSS;
 * Programação SQL, MySQL;
 * Programação Javascript, JQuery. 
  
