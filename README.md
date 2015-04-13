@@ -7,6 +7,10 @@ Guarujá - SP
 
 ###Formação Acadêmica
 
+Especialização em Qualidade de Software
+<br>Universidade do Vale do Rio do Sinos - UNISINOS</br> 
+<br>Conclusão em 10/2016</br> 
+
 Informática para gestão de Negócios
 <br>FATEC Baixada Santista - Rubens Lara</br> 
 <br>Conclusão em 12/2009</br> 
