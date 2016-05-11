@@ -1,7 +1,7 @@
 ###Marcelo Rodrigues Pires Filho
 
 Santos - São Paulo
-<br>Cell: (13)991469895</br>
+<br>Cell: 55 (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
 <br>27 years old</br>
 
@@ -25,7 +25,7 @@ Languages: PHP,ASP,Ruby on Rails,Javascript/JQuery, Git, C#
 
 **03/2015 - Zap Trade IT & ECM Solutions**
 
-* PHP Programming; 
+* PHP programming; 
 * HTML, CSS, Javascript and JQuery development; 
 * MySQL programming.
 
@@ -36,7 +36,7 @@ Languages: PHP,ASP,Ruby on Rails,Javascript/JQuery, Git, C#
 * .NET(C#) programming; 
 * HTML, CSS, Javascript and JQuery development;  
 * MSSQL programming;
-* Javascript Programming(Jquery,NodeJs). 
+* Javascript programming(Jquery,NodeJs). 
 
 
 **06/2013 to 07/2013 - Mkt Virtual**
