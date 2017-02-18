@@ -21,15 +21,11 @@ Informática para gestão de Negócios
 
 * PHP
 * ASP 
-* Ruby on Rails
 * Git
-* Ambiente Heroku
 * Javascript/JQuery 
 * C#
 * MSSQL
 * MySQL
-* PostgreSQL
-* MongoDB
 * OOP
 * .Net(C#)
 
