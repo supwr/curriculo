@@ -31,11 +31,10 @@ Informática para gestão de Negócios
 
 ###Últimos projetos: 
 
-* Desenvolvimento de melhorias no sistema, implementação de novas funcionalidades no sistema CMR Zen, a serviço da empresa Wsoma Soluções Web;
+* Desenvolvimento de aplicativo para inspeção de hidrantes, mangueiras e extintores, utilizando Ionic 2, para a empresa Ecoporto, a serviço da empresa Zap Trade;
+* Desenvolvimento de módulo jurídico, contemplando contratos, processos, imóveis e atos societários, para o Grupo Libra, a serviço da empresa Zap Trade;
 * Desenvolvimento de ferramenta de automação de posts para Facebook e Twitter, para uso interno, a serviço da empresa Wsoma Soluções Web;
 * Desenvolvimento de sistemas e hotsites com integração com redes sociais, utilizando PHP, pela empresa Mkt Virual;
-* Desenvolvimento de sites e sistemas em Programação ASP e ASP.NET de hotsites e sistemas para industria, em serviço em nome da empresa Devpartner. Desenvolvendo para empresas como Toyota, Coppertone , Harley Davidson, Ambev e Tecnocurva; 
-* Programação SQL e SAP MII para cálculo e acompanhamento de KPI's de produção de chão de fábrica, para CP Kelco - Limeira/SP; 
 * Desenvolvimento do Emissor de Nota Fiscal Eletrônica para a rede varejista MM Santos Informática; 
 * Desenvolvimento e implementação do sistema de Holerite Eletrônico para a rede varejista MM Santos Informática; 
 * Desenvolvimento de aplicação de venda de recargas on-line para a rede varejista MM Santos Informática. 
@@ -46,7 +45,7 @@ Informática para gestão de Negócios
 
 Atribuições do cargo: 
 
-* Programação PHP; 
+* Programação PHP;  
 * Desenvolvimento HTML, CSS, Javascript, Jquery; 
 * Programação MySQL.
 
