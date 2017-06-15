@@ -1,23 +1,23 @@
-##Marcelo Rodrigues Pires Filho
+## Marcelo Rodrigues Pires Filho
 
 Santos - SP
 <br>Cel.: (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
 <br>28 anos</br>
 
-###Formação Acadêmica
+### Formação Acadêmica
 
 Informática para gestão de Negócios
 <br>FATEC Baixada Santista - Rubens Lara</br> 
 <br>Conclusão em 12/2009</br> 
 
-###Projetos extracurriculares
+### Projetos extracurriculares
 
 * Tradução da Licença LGPL do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Tradução do Manual gnome-user-share do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Traduções aplicativos para o sistema operacional Ubuntu. 
  
-###Conhecimentos
+### Conhecimentos
 
 * PHP
 * ASP 
@@ -29,7 +29,7 @@ Informática para gestão de Negócios
 * OOP
 * .Net(C#)
 
-###Últimos projetos: 
+### Últimos projetos: 
 
 * Desenvolvimento de aplicativo para inspeção de hidrantes, mangueiras e extintores, utilizando Ionic 2, para a empresa Ecoporto, a serviço da empresa Zap Trade;
 * Desenvolvimento de módulo jurídico, contemplando contratos, processos, imóveis e atos societários, para o Grupo Libra, a serviço da empresa Zap Trade;
@@ -39,7 +39,7 @@ Informática para gestão de Negócios
 * Desenvolvimento e implementação do sistema de Holerite Eletrônico para a rede varejista MM Santos Informática; 
 * Desenvolvimento de aplicação de venda de recargas on-line para a rede varejista MM Santos Informática. 
 
-###Experiência Profissional: 
+### Experiência Profissional: 
 
 **03/2015 - Zap Trade IT & ECM Solutions**
 
