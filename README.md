@@ -133,7 +133,7 @@ Atribuições do cargo:
  * Integração do sistema da empresa e arquitetura de dados para o padrão SINTEGRA:
  * Sanitização e reestruturação de banco de dados, para atender novos padrões para envio de informação a Secretaria da Fazenda - SP.
 
-###Idiomas
+### Idiomas
 Inglês (Fluente)  
 
 
