@@ -1,27 +1,27 @@
-###Marcelo Rodrigues Pires Filho
+### Marcelo Rodrigues Pires Filho
 
 Santos - São Paulo - Brazil
 <br>Cell: 55 (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
 <br>28 years old</br>
 
-###Education
+### Education
 
 Technologist Degree in Information Science
 <br>São Paulo Estate Technological College</br>
 <br>February 2006 - December 2009</br>
 
-###Extracurricular Activities
+### Extracurricular Activities
 
 * Gnome Desktop version 3.0 LGPL Licence translation to Brazilian Portuguese;
 * Gnome Desktop version 3.0 gnome-user-share manual translation; 
  
-###Technical Proficiencies
+### Technical Proficiencies
 
 Languages: PHP,ASP,Ruby on Rails,Javascript/JQuery, Git, C#
 <br>Databases: MSSQL, MySQL, PostgreSQL, MongoDB</br>
 
-###Professional Experience
+### Professional Experience
 
 **03/2015 - Zap Trade IT & ECM Solutions**
 
@@ -79,7 +79,7 @@ Languages: PHP,ASP,Ruby on Rails,Javascript/JQuery, Git, C#
 * MSSQL programming;
 * HTML, CSS, Javascript, JQuery development.
 
-###Languages
+### Languages
 
 Portuguese
 <br>English</br>
