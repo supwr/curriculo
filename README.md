@@ -3,7 +3,7 @@
 Santos - SP
 <br>Cel.: (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
-<br>28 anos</br>
+<br>29 anos</br>
 
 ### Formação Acadêmica
 
@@ -20,14 +20,12 @@ Informática para gestão de Negócios
 ### Conhecimentos
 
 * PHP
-* ASP 
 * Git
 * Javascript/JQuery 
-* C#
 * MSSQL
 * MySQL
 * OOP
-* .Net(C#)
+
 
 ### Últimos projetos: 
 
