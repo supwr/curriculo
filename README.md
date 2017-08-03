@@ -3,7 +3,7 @@
 Santos - São Paulo - Brazil
 <br>Cell: 55 (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
-<br>28 years old</br>
+<br>29 years old</br>
 
 ### Education
 
@@ -18,7 +18,7 @@ Technologist Degree in Information Science
  
 ### Technical Proficiencies
 
-Languages: PHP,ASP,Ruby on Rails,Javascript/JQuery, Git, C#
+Languages: PHP,Javascript/JQuery, Git
 <br>Databases: MSSQL, MySQL, PostgreSQL, MongoDB</br>
 
 ### Professional Experience
