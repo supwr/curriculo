@@ -27,6 +27,7 @@ Informática para gestão de Negócios
 * MSSQL
 * MySQL
 * OOP
+* Symfony Components
 
 
 ### Últimos projetos: 
@@ -46,7 +47,8 @@ Informática para gestão de Negócios
 Atribuições do cargo: 
 
 * Programação PHP;  
-* Desenvolvimento HTML, CSS, Javascript, Jquery; 
+* Desenvolvimento Javascript(Typescript, Ionic 2)
+* Desenvolvimento com Symfony 2.8 e componetes do Symfony(Doctrine, Twig)
 * Programação MySQL.
 
 
