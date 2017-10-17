@@ -3,6 +3,7 @@
 Santos - São Paulo - Brazil
 <br>Cell: 55 (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
+<br>https://github.com/supwr</br>
 <br>29 years old</br>
 
 ### Education
@@ -13,6 +14,7 @@ Technologist Degree in Information Science
 
 ### Extracurricular Activities
 
+* Chromium web browser translation to Brazilian Portuguese;
 * Gnome Desktop version 3.0 LGPL Licence translation to Brazilian Portuguese;
 * Gnome Desktop version 3.0 gnome-user-share manual translation; 
  
