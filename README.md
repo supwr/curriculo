@@ -48,7 +48,7 @@ Atribuições do cargo:
 
 * Programação PHP;  
 * Desenvolvimento Javascript(Typescript, Ionic 2)
-* Desenvolvimento com Symfony 2.8 e componetes do Symfony(Doctrine, Twig)
+* Desenvolvimento com Symfony 2.8 e componentes do Symfony(Doctrine, Twig)
 * Programação MySQL.
 
 
