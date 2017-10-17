@@ -3,6 +3,7 @@
 Santos - SP
 <br>Cel.: (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
+<br>https://github.com/supwr</br>
 <br>29 anos</br>
 
 ### Formação Acadêmica
@@ -13,6 +14,7 @@ Informática para gestão de Negócios
 
 ### Projetos extracurriculares
 
+* Traduções do navegador Chromium para Português Brasileiro.
 * Tradução da Licença LGPL do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Tradução do Manual gnome-user-share do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Traduções aplicativos para o sistema operacional Ubuntu. 
