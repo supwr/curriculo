@@ -42,7 +42,13 @@ Informática para gestão de Negócios
 
 ### Experiência Profissional: 
 
-**03/2015 - Zap Trade IT & ECM Solutions**
+**12/2017 Folha de São Paulo**
+
+* Programação PHP;  
+* Desenvolvimento Javascript (Jquery, Vanilla)
+* Programação MySQL.
+
+**03/2015 a 12/2017 Zap Trade IT & ECM Solutions**
 
 Atribuições do cargo: 
 
