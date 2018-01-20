@@ -25,7 +25,13 @@ Languages: PHP,Javascript/JQuery, Git
 
 ### Professional Experience
 
-**03/2015 - Zap Trade IT & ECM Solutions**
+**12/2017 Folha de São Paulo**
+
+* PHP programming; 
+* HTML, CSS, Javascript and JQuery development; 
+* MySQL programming.
+
+**03/2015 to 12/2017 - Zap Trade IT & ECM Solutions**
 
 * PHP programming; 
 * HTML, CSS, Javascript and JQuery development; 
