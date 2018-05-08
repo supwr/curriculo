@@ -24,6 +24,8 @@ Informática para gestão de Negócios
 * PHP
 * Git
 * Javascript/JQuery 
+* Typescript
+* Ionic 3
 * MSSQL
 * MySQL
 * OOP
@@ -35,14 +37,17 @@ Informática para gestão de Negócios
 * Desenvolvimento de aplicativo para inspeção de hidrantes, mangueiras e extintores, utilizando Ionic 2, para a empresa Ecoporto, a serviço da empresa Zap Trade;
 * Desenvolvimento de módulo jurídico, contemplando contratos, processos, imóveis e atos societários, para o Grupo Libra, a serviço da empresa Zap Trade;
 * Desenvolvimento de ferramenta de automação de posts para Facebook e Twitter, para uso interno, a serviço da empresa Wsoma Soluções Web;
-* Desenvolvimento de sistemas e hotsites com integração com redes sociais, utilizando PHP, pela empresa Mkt Virual;
-* Desenvolvimento do Emissor de Nota Fiscal Eletrônica para a rede varejista MM Santos Informática; 
-* Desenvolvimento e implementação do sistema de Holerite Eletrônico para a rede varejista MM Santos Informática; 
-* Desenvolvimento de aplicação de venda de recargas on-line para a rede varejista MM Santos Informática. 
+
 
 ### Experiência Profissional: 
 
-**12/2017 Folha de São Paulo**
+**04/2018 CRM Zen / Wsoma Soluções Web**
+
+* Programação PHP;  
+* Mobile Developer(Ionic 3, Typescript)
+* MSSQL
+
+**12/2017 - 4/2018 Folha de São Paulo**
 
 * Programação PHP;  
 * Desenvolvimento Javascript (Jquery, Vanilla)
