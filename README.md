@@ -20,12 +20,18 @@ Technologist Degree in Information Science
  
 ### Technical Proficiencies
 
-Languages: PHP,Javascript/JQuery, Git
+Languages: PHP,Javascript/JQuery, Git, Typescript, Ionic 3, Python
 <br>Databases: MSSQL, MySQL, PostgreSQL, MongoDB</br>
 
 ### Professional Experience
 
-**12/2017 Folha de São Paulo**
+**04/2018 CRM Zen / Wsoma Soluções Web**
+
+* PHP programming;  
+* Mobile Development(Ionic 3, Typescript)
+* MSSQL
+
+**12/2017 - 04/2018 Folha de São Paulo**
 
 * PHP programming; 
 * HTML, CSS, Javascript and JQuery development; 
