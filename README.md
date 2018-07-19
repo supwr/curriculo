@@ -4,7 +4,7 @@ Santos - SP
 <br>Cel.: (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
 <br>https://github.com/supwr</br>
-<br>29 anos</br>
+<br>30 anos</br>
 
 ### Formação Acadêmica
 
