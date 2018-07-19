@@ -35,8 +35,7 @@ Informática para gestão de Negócios
 ### Últimos projetos: 
 
 * Desenvolvimento de aplicativo para inspeção de hidrantes, mangueiras e extintores, utilizando Ionic 2, para a empresa Ecoporto, a serviço da empresa Zap Trade;
-* Desenvolvimento de módulo jurídico, contemplando contratos, processos, imóveis e atos societários, para o Grupo Libra, a serviço da empresa Zap Trade;
-* Desenvolvimento de ferramenta de automação de posts para Facebook e Twitter, para uso interno, a serviço da empresa Wsoma Soluções Web;
+* Desenvolvimento de módulo jurídico, contemplando contratos, processos, imóveis e atos societários, para o Grupo Libra; migração de dados de sistema jurídico Tedesco, a serviço da empresa Zap Trade;
 
 
 ### Experiência Profissional: 
