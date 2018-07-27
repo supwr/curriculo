@@ -34,8 +34,8 @@ Informática para gestão de Negócios
 
 ### Últimos projetos: 
 
-* Criação de serviço de automatização de acesso a sistema de monitoramento de containers. Sistema criado utilizando Python 2.7, Selenium e MongoDB.
-* Desenvolvido app para log de posição, com feature offline. Projeto entregue utilizando Ionic 3 + SQLite no lado mobile e PHP no desenvolvimento de API. App publicado na App Store(Iphone/Ipad) e Google Play(Android).
+* Criação de serviço de automatização de acesso a sistema de monitoramento de containers. Sistema criado utilizando Python 2.7, Selenium e MongoDB;
+* Desenvolvido app para log de posição, com feature offline. Projeto entregue utilizando Ionic 3 + SQLite no lado mobile e PHP no desenvolvimento de API. App publicado na App Store(IPhone/IPad) e Google Play(Android);
 * Desenvolvimento de aplicativo para inspeção de hidrantes, mangueiras e extintores, utilizando Ionic 2, para a empresa Ecoporto, a serviço da empresa Zap Trade;
 * Desenvolvimento de módulo jurídico, contemplando contratos, processos, imóveis e atos societários, para o Grupo Libra; migração de dados de sistema jurídico Tedesco, a serviço da empresa Zap Trade;
 
