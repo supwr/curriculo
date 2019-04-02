@@ -154,6 +154,6 @@ Atribuições do cargo:
  * Sanitização e reestruturação de banco de dados, para atender novos padrões para envio de informação a Secretaria da Fazenda - SP.
 
 ### Idiomas
-Inglês (Fluente)  
+Inglês
 
 
