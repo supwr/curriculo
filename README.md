@@ -20,7 +20,8 @@ Technologist Degree in Information Science
  
 ### Technical Proficiencies
 
-Languages: PHP,Javascript/JQuery, Git, Typescript, Ionic 3, Python
+Languages: Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3 
+<br>Tools: Selenium, Scrapy, Docker
 <br>Databases: MSSQL, MySQL, PostgreSQL, MongoDB</br>
 
 ### Professional Experience
