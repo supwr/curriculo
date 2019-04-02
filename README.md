@@ -22,6 +22,11 @@ Informática para gestão de Negócios
 ### Conhecimentos
 
 * PHP
+* Python
+* Selenium
+* Scrapy
+* Docker
+* MongoDB
 * Git
 * Javascript/JQuery 
 * Typescript
@@ -34,6 +39,7 @@ Informática para gestão de Negócios
 
 ### Últimos projetos: 
 
+* Criação de serviço que indexa conteúdo para portais de notícias e os serve como app. Projeto desenvolvido utilizando Python 3.7, Selenium, Ionic 3, MongoDB e Docker;
 * Criação de serviço de automatização de acesso a sistema de monitoramento de containers. Sistema criado utilizando Python 2.7, Selenium e MongoDB;
 * Desenvolvido app para log de posição, com feature offline. Projeto entregue utilizando Ionic 3 + SQLite no lado mobile e PHP no desenvolvimento de API. App publicado na App Store(IPhone/IPad) e Google Play(Android);
 * Desenvolvimento de aplicativo para inspeção de hidrantes, mangueiras e extintores, utilizando Ionic 2, para a empresa Ecoporto, a serviço da empresa Zap Trade;
