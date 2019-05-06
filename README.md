@@ -48,16 +48,29 @@ Informática para gestão de Negócios
 
 ### Experiência Profissional: 
 
-**04/2018 CRM Zen / Wsoma Soluções Web**
+
+**09/2018 CRM Zap Trade IT & ECM Solutions**
 
 * Programação PHP;  
-* Mobile Developer(Ionic 3, Typescript)
-* MSSQL
+* Symfony 4;
+* Mobile Developer(Ionic 3, Typescript);
+* Python;
+* MySQL.
+
+**04/2018 - 09/2018 CRM Zen / Wsoma Soluções Web**
+
+Atribuições do cargo: 
+
+* Programação PHP;  
+* Mobile Developer(Ionic 3, Typescript);
+* MSSQL.
 
 **12/2017 - 4/2018 Folha de São Paulo**
 
+Atribuições do cargo: 
+
 * Programação PHP;  
-* Desenvolvimento Javascript (Jquery, Vanilla)
+* Desenvolvimento Javascript (Jquery, Vanilla);
 * Programação MySQL.
 
 **03/2015 a 12/2017 Zap Trade IT & ECM Solutions**
@@ -65,8 +78,8 @@ Informática para gestão de Negócios
 Atribuições do cargo: 
 
 * Programação PHP;  
-* Desenvolvimento Javascript (TypeScript, Ionic 2)
-* Desenvolvimento com Symfony 2.8 e componentes do Symfony (Doctrine, Twig)
+* Desenvolvimento Javascript (TypeScript, Ionic 2);
+* Desenvolvimento com Symfony 2.8 e componentes do Symfony (Doctrine, Twig);
 * Programação MySQL.
 
 
