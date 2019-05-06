@@ -26,7 +26,15 @@ Languages: Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3
 
 ### Professional Experience
 
-**04/2018 CRM Zen / Wsoma Soluções Web**
+**09/2018 CRM Zap Trade IT & ECM Solutions**
+
+* PHP programming;  
+* Symfony 4;
+* Mobile Developer(Ionic 3, Typescript);
+* Python;
+* MySQL.
+
+**04/2018 - 09/2018 CRM Zen / Wsoma Soluções Web**
 
 * PHP programming;  
 * Mobile Development(Ionic 3, Typescript)
