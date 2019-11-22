@@ -4,7 +4,7 @@ Santos - SP
 <br>Cel.: (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
 <br>https://github.com/supwr</br>
-<br>30 anos</br>
+<br>31 anos</br>
 
 ### Formação Acadêmica
 
@@ -31,6 +31,7 @@ Informática para gestão de Negócios
 * Javascript/JQuery 
 * Typescript
 * Ionic 3
+* Angular 8
 * MSSQL
 * MySQL
 * OOP
@@ -39,6 +40,7 @@ Informática para gestão de Negócios
 
 ### Últimos projetos: 
 
+* Desenvolvimento em Python(Flask/Pyramid) para a empresa Anchor Loans;
 * Criação de serviço que indexa conteúdo para portais de notícias e os serve como app. Projeto desenvolvido utilizando Python 3.7, Selenium, Ionic 3, MongoDB e Docker;
 * Criação de serviço de automatização de acesso a sistema de monitoramento de containers. Sistema criado utilizando Python 2.7, Selenium e MongoDB;
 * Desenvolvido app para log de posição, com feature offline. Projeto entregue utilizando Ionic 3 + SQLite no lado mobile e PHP no desenvolvimento de API. App publicado na App Store(IPhone/IPad) e Google Play(Android);
@@ -55,6 +57,7 @@ Informática para gestão de Negócios
 * Symfony 4;
 * Mobile Developer(Ionic 3, Typescript);
 * Python;
+* Selenium;
 * MySQL.
 
 **04/2018 - 09/2018 CRM Zen / Wsoma Soluções Web**
