@@ -4,7 +4,7 @@ Santos - SP
 <br>Cel.: (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
 <br>https://github.com/supwr</br>
-<br>31 anos</br>
+<br>32 anos</br>
 
 ### Formação Acadêmica
 
@@ -32,14 +32,13 @@ Informática para gestão de Negócios
 * Typescript
 * Ionic 3
 * Angular 8
-* MSSQL
-* MySQL
 * OOP
 * Symfony Components
 
 
 ### Últimos projetos: 
 
+* Manutenção e melhorias no sistema de lojas físicas da Mobly, inicialmente como desenvolvedor sênior e posteriormente como Tech Lead;
 * Desenvolvimento em Python(Flask/Pyramid) para a empresa Anchor Loans;
 * Criação de serviço que indexa conteúdo para portais de notícias e os serve como app. Projeto desenvolvido utilizando Python 3.7, Selenium, Ionic 3, MongoDB e Docker;
 * Criação de serviço de automatização de acesso a sistema de monitoramento de containers. Sistema criado utilizando Python 2.7, Selenium e MongoDB;
@@ -50,8 +49,15 @@ Informática para gestão de Negócios
 
 ### Experiência Profissional: 
 
+**03/2020 Mobly**
 
-**09/2018 CRM Zap Trade IT & ECM Solutions**
+* Programação PHP(5.6 e 7);
+* Laravel 8;
+* MySQL;
+* Redis;
+* VueJs.
+
+**09/2018 - 03/2020 CRM Zap Trade IT & ECM Solutions**
 
 * Programação PHP;  
 * Symfony 4;
