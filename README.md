@@ -8,8 +8,8 @@ Santos - São Paulo - Brazil
 
 ### Education
 
-Technologist Degree in Information Science
-<br>São Paulo Estate Technological College</br>
+Associate Degree in Information Science
+<br>São Paulo State Tech College</br>
 <br>February 2006 - December 2009</br>
 
 ### Extracurricular Activities
@@ -24,7 +24,36 @@ Languages: Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3
 <br>Tools: Selenium, Scrapy, Docker
 <br>Databases: MSSQL, MySQL, PostgreSQL, MongoDB</br>
 
+
+### Latest projects: 
+
+* Development of new features on Mobly's physical stores self-service system, initially as a sênior developer and later as a Tech Lead;
+* Backend development with Python(Flask, Pyramid) working for Anchor Loans;
+* Creation of a service that indexes content from news outlets and serves its content through an app. Project was accomplished using Python 3.7, Selenium, Ionic 3, MongoDB and Docker;
+* Creation of service that automates the access to a container health monitoring system. Project accomplished using Python 2.7, Selenium and MongoDB;
+* Creation of a mobile app that logs geo position, with offline features. Project was accomplished with Ionic 3, SQLite for the front end and PHP 5.6 for the backend. App was published to Apple App Store(IPhone/IPad) and Google Play; 
+
+
 ### Professional Experience
+
+**03/2021 - PicPay**
+
+* PHP programming(7 e 8.0);
+* Laravel 8;
+* MySQL;
+* Redis;
+* Kafka;
+* MongoDB;
+* Swoole/HyperF;
+
+
+**03/2020 a 03/2021 - Mobly**
+
+* PHP programming(5.6 e 7);
+* Laravel 8;
+* MySQL;
+* Redis;
+* VueJs.
 
 **09/2018 CRM Zap Trade IT & ECM Solutions**
 
