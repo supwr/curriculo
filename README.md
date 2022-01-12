@@ -49,7 +49,18 @@ Informática para gestão de Negócios
 
 ### Experiência Profissional: 
 
-**03/2020 Mobly**
+**03/2021 - PicPay**
+
+* Programação PHP(7 e 8.0);
+* Laravel 8;
+* MySQL;
+* Redis;
+* Kafka;
+* MongoDB;
+* Swoole/HyperF;
+
+
+**03/2020 a 03/2021 - Mobly**
 
 * Programação PHP(5.6 e 7);
 * Laravel 8;
@@ -57,7 +68,7 @@ Informática para gestão de Negócios
 * Redis;
 * VueJs.
 
-**09/2018 - 03/2020 CRM Zap Trade IT & ECM Solutions**
+**09/2018 a 03/2020 - CRM Zap Trade IT & ECM Solutions**
 
 * Programação PHP;  
 * Symfony 4;
@@ -66,7 +77,7 @@ Informática para gestão de Negócios
 * Selenium;
 * MySQL.
 
-**04/2018 - 09/2018 CRM Zen / Wsoma Soluções Web**
+**04/2018 a 09/2018 - CRM Zen / Wsoma Soluções Web**
 
 Atribuições do cargo: 
 
@@ -74,7 +85,7 @@ Atribuições do cargo:
 * Mobile Developer(Ionic 3, Typescript);
 * MSSQL.
 
-**12/2017 - 4/2018 Folha de São Paulo**
+**12/2017 a 4/2018 Folha de São Paulo**
 
 Atribuições do cargo: 
 
