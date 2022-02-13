@@ -27,7 +27,7 @@ Languages: Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3
 
 ### Latest projects: 
 
-* Development of new features on Mobly's physical stores self-service system, initially as a sênior developer and later as a Tech Lead;
+* Development of new features on Mobly's physical stores self-service system, initially as a senior developer and later as a Tech Lead;
 * Backend development with Python(Flask, Pyramid) working for Anchor Loans;
 * Creation of a service that indexes content from news outlets and serves its content through an app. Project was accomplished using Python 3.7, Selenium, Ionic 3, MongoDB and Docker;
 * Creation of service that automates the access to a container health monitoring system. Project accomplished using Python 2.7, Selenium and MongoDB;
