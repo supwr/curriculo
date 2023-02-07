@@ -1,16 +1,15 @@
 ## Marcelo Rodrigues Pires Filho
 
 Santos - SP
-<br>Cel.: (13)991469895</br>
-<br>E-mail: marcelo.rodriguespires@gmail.com</br>
-<br>https://github.com/supwr</br>
-<br>33 anos</br>
+Cel.: (13)991469895<br> 
+E-mail: marcelo.rodriguespires@gmail.com<br> 
+https://github.com/supwr<br> 
 
 ### Formação Acadêmica
 
 Informática para gestão de Negócios
-<br>FATEC Baixada Santista - Rubens Lara</br> 
-<br>Conclusão em 12/2009</br> 
+FATEC Baixada Santista - Rubens Lara<br> 
+Conclusão em 12/2009<br> 
 
 ### Projetos extracurriculares
 
