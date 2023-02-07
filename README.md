@@ -23,21 +23,20 @@ Informática para gestão de Negócios
 
 * PHP
 * Python
+* Kafka
 * Selenium
 * Scrapy
 * Docker
 * MongoDB
 * Git
-* Javascript/JQuery 
-* Typescript
-* Ionic 3
-* Angular 8
+* Javascript/Typescript 
 * OOP
 * Symfony Components
 
 
 ### Últimos projetos: 
 
+* Criação e manutenção no produto Clube de Empréstimos na PicPay, especificamente nas jornadas de pedido e investimento de empréstimos coletivos, envolvido diretamente na criação dos microsserviços e a infraestrutura que os servem.
 * Manutenção e melhorias no sistema de lojas físicas da Mobly, inicialmente como desenvolvedor sênior e posteriormente como Tech Lead;
 * Desenvolvimento em Python(Flask/Pyramid) para a empresa Anchor Loans;
 * Criação de serviço que indexa conteúdo para portais de notícias e os serve como app. Projeto desenvolvido utilizando Python 3.7, Selenium, Ionic 3, MongoDB e Docker;
