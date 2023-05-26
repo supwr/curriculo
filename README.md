@@ -20,6 +20,7 @@ Conclusão em 12/2009<br>
  
 ### Conhecimentos
 
+* Go
 * PHP
 * Python
 * Kafka
