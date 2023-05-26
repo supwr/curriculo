@@ -4,7 +4,6 @@ Santos - São Paulo - Brazil
 <br>Cell: 55 (13)991469895</br>
 <br>E-mail: marcelo.rodriguespires@gmail.com</br>
 <br>https://github.com/supwr</br>
-<br>33 years old</br>
 
 ### Education
 
@@ -20,13 +19,14 @@ Associate Degree in Information Science
  
 ### Technical Proficiencies
 
-Languages: Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3 
+Languages: Go, Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3 
 <br>Tools: Selenium, Scrapy, Docker
 <br>Databases: MSSQL, MySQL, PostgreSQL, MongoDB</br>
 
 
 ### Latest projects: 
 
+* Development and launch of the "P2P Lending" product, inside PicPay app. Directly involved with lender's and borrower's journey inside the product, from the microservices architecture decisions through coding of main features;
 * Development of new features on Mobly's physical stores self-service system, initially as a senior developer and later as a Tech Lead;
 * Backend development with Python(Flask, Pyramid) working for Anchor Loans;
 * Creation of a service that indexes content from news outlets and serves its content through an app. Project was accomplished using Python 3.7, Selenium, Ionic 3, MongoDB and Docker;
@@ -38,6 +38,8 @@ Languages: Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3
 
 **03/2021 - PicPay**
 
+* Go
+* Gin/Fibers
 * PHP programming(7 e 8.0);
 * Laravel 8;
 * MySQL;
