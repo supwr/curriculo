@@ -49,6 +49,8 @@ Conclusão em 12/2009<br>
 
 **03/2021 - PicPay**
 
+* Programação Go
+* Gin/Fibers
 * Programação PHP(7 e 8.0);
 * Laravel 8;
 * MySQL;
