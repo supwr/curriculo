@@ -19,7 +19,7 @@ Associate Degree in Information Science
  
 ### Technical Proficiencies
 
-Languages: Go, Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3 
+Languages: Go, Python, PHP, Laravel, Gin, Fibers, Javascript/JQuery, Git, Typescript, Ionic 3 
 <br>Tools: Selenium, Scrapy, Docker
 <br>Databases: MSSQL, MySQL, PostgreSQL, MongoDB</br>
 
@@ -45,6 +45,7 @@ Languages: Go, Python, PHP,Javascript/JQuery, Git, Typescript, Ionic 3
 * MySQL;
 * Redis;
 * Kafka;
+* PostgreSQL
 * MongoDB;
 * Swoole/HyperF;
 
