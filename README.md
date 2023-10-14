@@ -11,6 +11,10 @@ Informática para gestão de Negócios
 FATEC Baixada Santista - Rubens Lara<br> 
 Conclusão em 12/2009<br> 
 
+Pós Graduação em Arquitetura de Software
+FIAP<br>
+Conclusão 06/2024<br>
+
 ### Projetos extracurriculares
 
 * Traduções do navegador Chromium para Português Brasileiro.
@@ -51,10 +55,11 @@ Conclusão em 12/2009<br>
 **03/2021 - PicPay**
 
 * Programação Go
-* Gin/Fibers
+* Gin/Fiber
 * Programação PHP(7 e 8.0);
 * Laravel 8;
 * MySQL;
+* Postgres
 * Redis;
 * Kafka;
 * MongoDB;
