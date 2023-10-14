@@ -11,6 +11,10 @@ Associate Degree in Information Science
 <br>São Paulo State Tech College</br>
 <br>February 2006 - December 2009</br>
 
+MBA in Software Architecture
+FIAP<br>
+September 2023 - June 2024<br>
+
 ### Extracurricular Activities
 
 * Chromium web browser translation to Brazilian Portuguese;
@@ -19,7 +23,7 @@ Associate Degree in Information Science
  
 ### Technical Proficiencies
 
-Languages: Go, Python, PHP, Laravel, Gin, Fibers, Javascript/JQuery, Git, Typescript, Ionic 3 
+Languages: Go, Python, PHP, Laravel, Gin, Fiber, Javascript/JQuery, Git, Typescript, Ionic 3 
 <br>Tools: Selenium, Scrapy, Docker
 <br>Databases: MSSQL, MySQL, PostgreSQL, MongoDB</br>
 
@@ -39,7 +43,7 @@ Languages: Go, Python, PHP, Laravel, Gin, Fibers, Javascript/JQuery, Git, Typesc
 **03/2021 - PicPay**
 
 * Go
-* Gin/Fibers
+* Gin/Fiber
 * PHP programming(7 e 8.0);
 * Laravel 8;
 * MySQL;
