@@ -7,11 +7,11 @@ Santos - São Paulo - Brazil
 
 ### Education
 
-São Paulo State Tech College<br>
+<br>São Paulo State Tech College</br>
 Associate Degree in Information Science<br>
 February 2006 - December 2009<br>
 
-FIAP<br>
+<br>FIAP</br>
 MBA in Software Architecture<br>
 September 2023 - June 2024<br>
 
