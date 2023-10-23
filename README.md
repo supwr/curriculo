@@ -7,12 +7,12 @@ https://github.com/supwr<br>
 
 ### Formação Acadêmica
 
-Informática para gestão de Negócios<br>
 FATEC Baixada Santista - Rubens Lara<br> 
+Informática para gestão de Negócios<br>
 Conclusão em 12/2009<br> 
 
-Pós Graduação em Arquitetura de Software<br>
 FIAP<br>
+Pós Graduação em Arquitetura de Software<br>
 Conclusão 06/2024<br>
 
 ### Projetos extracurriculares
