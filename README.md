@@ -74,7 +74,7 @@ Conclusão 06/2024<br>
 * Redis;
 * VueJs.
 
-**09/2018 a 03/2020 - CRM Zap Trade IT & ECM Solutions**
+**09/2018 a 03/2020 - Zap Trade IT & ECM Solutions**
 
 * Programação PHP;  
 * Symfony 4;
