@@ -13,12 +13,14 @@ Conclusão em 12/2009<br>
 <br>FIAP</br>
 Pós Graduação em Arquitetura de Software<br>
 Conclusão 06/2024<br>
+
  
 ### Últimos projetos: 
 
 * Desenvolvimento de sistema integração de afiliados, para servir produto de cashback. Criando integração com empresas como Amazon, Magazine Luiza e Casas Bahia, gerando faturamento de cerca de R$72 milhões no ano de 2023;
 * Participação na arquitetura e implementação dos microsserviços de produto de empréstimo coletivo, especificamente nas jornadas de pedido de empréstimo e investimento em empréstimos. Produto movimentou cerca de R$350 milhões entre 2022 e 2023;
 * Manutenção e melhorias no sistema de autoatendimento de varejista de móveis, participando com desenvolvedor e líder técnico na implementação de feature de outlet. Sendo essa categoria responsável por um aumento de 13% nas vendas de lojas em 2021.
+
 
 ### Conhecimentos
 
@@ -27,12 +29,14 @@ Frameworks: Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid
 Ferramentas: AWS, Docker, Kubernetes, Selenium, Scrapy, Git
 Databases: MSSQL, MySQL, Postgres, MongoDB
 
+
 ### Projetos extracurriculares
 
 * Traduções do navegador Chromium para Português Brasileiro.
 * Tradução da Licença LGPL do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Tradução do Manual gnome-user-share do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Traduções aplicativos para o sistema operacional Ubuntu. 
+
 
 ### Experiência Profissional: 
 
@@ -90,6 +94,7 @@ Atribuições do cargo:
 * Desenvolvimento Javascript (TypeScript, Ionic 2);
 * Desenvolvimento com Symfony 2.8 e componentes do Symfony (Doctrine, Twig);
 * Programação MySQL.
+
 
 ### Idiomas
 Inglês
