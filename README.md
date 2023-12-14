@@ -15,7 +15,7 @@ Pós Graduação em Arquitetura de Software<br>
 Conclusão 06/2024<br>
 
  
-### Últimos projetos: 
+### Últimos projetos
 
 * Desenvolvimento de sistema integração de afiliados, para servir produto de cashback. Criando integração com empresas como Amazon, Magazine Luiza e Casas Bahia, gerando faturamento de cerca de R$72 milhões no ano de 2023;
 * Participação na arquitetura e implementação dos microsserviços de produto de empréstimo coletivo, especificamente nas jornadas de pedido de empréstimo e investimento em empréstimos. Produto movimentou cerca de R$350 milhões entre 2022 e 2023;
@@ -24,10 +24,10 @@ Conclusão 06/2024<br>
 
 ### Conhecimentos
 
-Linguagens: Go, PHP, Python, Javascript
-Frameworks: Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid
-Ferramentas: AWS, Docker, Kubernetes, Selenium, Scrapy, Git
-Databases: MSSQL, MySQL, Postgres, MongoDB
+**Linguagens:** Go, PHP, Python, Javascript
+<br>**Frameworks:** Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid
+<br>**Ferramentas:** AWS, Docker, Kubernetes, Selenium, Scrapy, Git
+<br>**Databases:** MSSQL, MySQL, Postgres, MongoDB
 
 
 ### Projetos extracurriculares
@@ -38,7 +38,7 @@ Databases: MSSQL, MySQL, Postgres, MongoDB
 * Traduções aplicativos para o sistema operacional Ubuntu. 
 
 
-### Experiência Profissional: 
+### Experiência Profissional
 
 **03/2021 - PicPay**
 
