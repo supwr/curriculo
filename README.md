@@ -1,6 +1,5 @@
 ## Marcelo Rodrigues Pires Filho
 
-Santos - SP<br>
 Cel.: (13)991469895<br> 
 E-mail: marcelo.rodriguespires@gmail.com<br> 
 https://github.com/supwr<br> 
@@ -14,6 +13,19 @@ Conclusão em 12/2009<br>
 <br>FIAP</br>
 Pós Graduação em Arquitetura de Software<br>
 Conclusão 06/2024<br>
+ 
+### Últimos projetos: 
+
+* Desenvolvimento de sistema integração de afiliados, para servir produto de cashback. Criando integração com empresas como Amazon, Magazine Luiza e Casas Bahia, gerando faturamento de cerca de R$72 milhões no ano de 2023;
+* Participação na arquitetura e implementação dos microsserviços de produto de empréstimo coletivo, especificamente nas jornadas de pedido de empréstimo e investimento em empréstimos. Produto movimentou cerca de R$350 milhões entre 2022 e 2023;
+* Manutenção e melhorias no sistema de autoatendimento de varejista de móveis, participando com desenvolvedor e líder técnico na implementação de feature de outlet. Sendo essa categoria responsável por um aumento de 13% nas vendas de lojas em 2021.
+
+### Conhecimentos
+
+Linguagens: Go, PHP, Python, Javascript
+Frameworks: Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid
+Ferramentas: AWS, Docker, Kubernetes, Selenium, Scrapy, Git
+Databases: MSSQL, MySQL, Postgres, MongoDB
 
 ### Projetos extracurriculares
 
@@ -21,34 +33,6 @@ Conclusão 06/2024<br>
 * Tradução da Licença LGPL do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Tradução do Manual gnome-user-share do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Traduções aplicativos para o sistema operacional Ubuntu. 
- 
-### Conhecimentos
-
-* Go
-* PHP
-* Python
-* Kafka
-* Selenium
-* Scrapy
-* Docker
-* MongoDB
-* Git
-* Javascript/Typescript 
-* OOP
-* Symfony Components
-
-
-### Últimos projetos: 
-
-* Criação e manutenção no produto Clube de Empréstimos na PicPay, especificamente nas jornadas de pedido e investimento de empréstimos coletivos, envolvido diretamente na criação dos microsserviços e a infraestrutura que os servem.
-* Manutenção e melhorias no sistema de lojas físicas da Mobly, inicialmente como desenvolvedor sênior e posteriormente como Tech Lead;
-* Desenvolvimento em Python(Flask/Pyramid) para a empresa Anchor Loans;
-* Criação de serviço que indexa conteúdo para portais de notícias e os serve como app. Projeto desenvolvido utilizando Python 3.7, Selenium, Ionic 3, MongoDB e Docker;
-* Criação de serviço de automatização de acesso a sistema de monitoramento de containers. Sistema criado utilizando Python 2.7, Selenium e MongoDB;
-* Desenvolvido app para log de posição, com feature offline. Projeto entregue utilizando Ionic 3 + SQLite no lado mobile e PHP no desenvolvimento de API. App publicado na App Store(IPhone/IPad) e Google Play(Android);
-* Desenvolvimento de aplicativo para inspeção de hidrantes, mangueiras e extintores, utilizando Ionic 2, para a empresa Ecoporto, a serviço da empresa Zap Trade;
-* Desenvolvimento de módulo jurídico, contemplando contratos, processos, imóveis e atos societários, para o Grupo Libra; migração de dados de sistema jurídico Tedesco, a serviço da empresa Zap Trade;
-
 
 ### Experiência Profissional: 
 
@@ -57,14 +41,13 @@ Conclusão 06/2024<br>
 * Programação Go
 * Gin/Fiber
 * Programação PHP(7 e 8.0);
+* Swoole/HyperF;
 * Laravel 8;
 * MySQL;
 * Postgres
 * Redis;
 * Kafka;
 * MongoDB;
-* Swoole/HyperF;
-
 
 **03/2020 a 03/2021 - Mobly**
 
@@ -110,5 +93,3 @@ Atribuições do cargo:
 
 ### Idiomas
 Inglês
-
-
