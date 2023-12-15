@@ -6,18 +6,19 @@ https://github.com/supwr<br>
 
 ### Formação Acadêmica
 
-<br>FATEC Baixada Santista - Rubens Lara</br>
-Informática para gestão de Negócios<br>
-Conclusão em 12/2009<br> 
-
 <br>FIAP</br>
 Pós Graduação em Arquitetura de Software<br>
 Conclusão 06/2024<br>
 
+
+<br>FATEC Baixada Santista - Rubens Lara</br>
+Informática para gestão de Negócios<br>
+Conclusão em 12/2009<br> 
+
  
 ### Últimos projetos
 
-* Desenvolvimento de sistema integração de afiliados, para servir produto de cashback. Criando integração com empresas como Amazon, Magazine Luiza e Casas Bahia, gerando faturamento de cerca de R$72 milhões no ano de 2023;
+* Desenvolvimento Golang em microsserviços de integração de afiliados, parte do ecossistema de cashback. Trabalhando em integração com empresas como Amazon, Magazine Luiza e Casas Bahia. Produto teve faturamento de cerca de R$72 milhões no ano de 2023;
 * Participação na arquitetura e implementação dos microsserviços de produto de empréstimo coletivo, especificamente nas jornadas de pedido de empréstimo e investimento em empréstimos. Produto movimentou cerca de R$350 milhões entre 2022 e 2023;
 * Manutenção e melhorias no sistema de autoatendimento de varejista de móveis, participando com desenvolvedor e líder técnico na implementação de feature de outlet. Sendo essa categoria responsável por um aumento de 13% nas vendas de lojas em 2021.
 
