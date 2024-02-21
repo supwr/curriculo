@@ -42,7 +42,7 @@ Conclusão em 12/2009
 
 ## Experiência Profissional
 
-#### 03/2021 - PicPay   
+### 03/2021 - PicPay   
 
 **Desenvolvedor backend Go | Integração de afiliados**   
 
@@ -57,7 +57,7 @@ Atuei como desenvolvedor PHP (Laravel, Swoole, HyperF) no produto de empréstimo
 > Principais tecnologias: PHP 8, Laravel 8, HyperF, MySQL, MongoDB, Kafka, Redis, Kubernetes, Grafana
 
 
-#### 03/2020 á 03/2021 - Mobly   
+### 03/2020 á 03/2021 - Mobly   
 
 **Desenvolvedor Full Stack / Tech Lead | Canal de vendas offline**   
 
@@ -65,7 +65,7 @@ Iniciei minha experiência na empresa como desenvolvedor full stack(Laravel, Vue
 
 > Principais tecnologias: PHP 8, Laravel, VueJs, Typescript, MySQL, Redis, Docker
 
-#### 09/2018 á 03/2020 - Zap Trade IT & ECM Solutions   
+### 09/2018 á 03/2020 - Zap Trade IT & ECM Solutions   
 
 **Desenvolvedor Full Stack | Backend, Mobile & Python RPA**   
 
@@ -74,7 +74,7 @@ Atuando como desenvolvedor full stack, durante meu tempo com a empresa trabalhei
 > Principais tecnologias: PHP, Symfony 4, Ionic 3, Typescript, Python, Selenium, MySQL, SQLite
 
 
-#### 04/2018 á 09/2018 - CRM Zen   
+### 04/2018 á 09/2018 - CRM Zen   
 
 **Desenvolvedor Full Stack | CRM e Mobile app**   
 
@@ -83,7 +83,7 @@ Trabalhei como desenvolvedor full stack, com foco no desenvolvimento mobile e AP
 > Principais tecnologias: PHP, Ionic 3, Typescript, MSSQL, ASP Clássico
 
 
-#### 12/2017 á 4/2018 - Folha de São Paulo   
+### 12/2017 á 4/2018 - Folha de São Paulo   
 
 **Desenvolvedor PHP | TransFolha**   
 
@@ -92,7 +92,7 @@ Atuei como desenvolvedor na solução de logística da Folha de São Paulo(Trans
 > Principais tecnologias: PHP, MySQL, Javascript, JQuery, Bootstrap, CSS   
 
 
-#### 03/2015 á 12/2017 - Zap Trade IT & ECM Solutions   
+### 03/2015 á 12/2017 - Zap Trade IT & ECM Solutions   
 
 **Desenvolvedor PHP | Fábrica de software**   
 
@@ -101,7 +101,7 @@ Atuei como desenvolvedor PHP, desenvolvendo soluções multi-tenant de ECM e wor
 > Principais tecnologias: PHP, Symfony 2.8, MySQL, Ionic2, Typescript, Bootstrap, JQuery, CSS   
 
 
-#### 07/2013 a 03/2015 - CRM Zen / Wsoma Soluções Web   
+### 07/2013 a 03/2015 - CRM Zen / Wsoma Soluções Web   
 
 **Desenvolvedor Asp Clássico | CRM e fábrica de software**   
 
@@ -110,7 +110,7 @@ Trabalhei como desenvolvedor ASP clássico, adicionando novas funcionalidades ao
 > Principais tecnologias: ASP Clássico, .NET(C#), Javascript, NodeJS, Express, MSSQL, HTML, CSS   
 
  
-#### 05/2011 a 10/2012 - MM Santos Informática
+### 05/2011 a 10/2012 - MM Santos Informática
 
 **Desenvolvedor Backend | ERP e integrações**
 
