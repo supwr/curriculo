@@ -42,7 +42,7 @@ Conclusão em 12/2009
 
 ## Experiência Profissional
 
-### 03/2021 - PicPay   
+### * 03/2021 - PicPay   
 
 **Desenvolvedor backend Go | Integração de afiliados**   
 
