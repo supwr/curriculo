@@ -101,7 +101,7 @@ As a PHP developer, I built multi-tenant ECM solutions and document approval wor
 > Key Technologies: PHP, Symfony 2.8, MySQL, Ionic2, Typescript, Bootstrap, JQuery, CSS
 
 
-### 07/2013 a 03/2015 - CRM Zen / Wsoma Soluções Web
+### 07/2013 to 03/2015 - CRM Zen / Wsoma Soluções Web
 
 **ASP Developer | CRM and Software Factory**
 
@@ -110,7 +110,7 @@ I worked as an ASP developer, adding new features to the CRM product, including 
 > Key Technologies: ASP, .NET (C#), Javascript, NodeJS, Express, MSSQL, HTML, CSS
 
 
-### 05/2011 a 10/2012 - MM Santos Informática
+### 05/2011 to 10/2012 - MM Santos Informática
 
 **Backend Developer | ERP and Integrations**
 
