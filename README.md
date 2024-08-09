@@ -10,7 +10,7 @@ https://github.com/supwr
 
 **FIAP**   
 Pós Graduação em Arquitetura de Software   
-Conclusão 06/2024   
+Conclusão 09/2024   
 
 
 **FATEC Baixada Santista - Rubens Lara**   
@@ -42,11 +42,17 @@ Conclusão em 12/2009
 
 ## Experiência Profissional
 
-### 03/2021 - PicPay   
+### 06/2024 - Wellhub(formerly Gympass)   
+
+Atuo como desenvolvedor Go na equipe de Data & Analytics, provendo soluções para área de Marketing. Parte das minhas atribuções consiste em trabalhar na pipeline de dados e integração com plataformas de CRM, sementação de audiências e redes sociais.
+
+> Principais tecnologias: Go(Mux), PostgreSQL, RabbitMQ, Kafka, Redis, Kubernetes, Airflow, Twilio Segment, Braze
+
+### 03/2021 á 04/2024 - PicPay   
 
 **Desenvolvedor backend Go | Integração de afiliados**   
 
-Atualmente trabalho como desenvolvedor Go (Gin, Fiber) no produto de cashback, com foco na comunicação com diversas integradoras para consolidação das transações passíveis de pagamento de cashback. Durante minha atuação no produto, destaco meu trabalho na evolução da arquitetura da solução, migrando de um cenário com múltiplos microsserviços redundantes para um único microsserviço com abstrações para as particularidades de cada integradora e a participação no desenvolvimento da solução de pagamento de cashback por categoria de produto.   
+Trabalhei como desenvolvedor Go (Gin, Fiber) no produto de cashback, com foco na comunicação com diversas integradoras para consolidação das transações passíveis de pagamento de cashback. Durante minha atuação no produto, destaco meu trabalho na evolução da arquitetura da solução, migrando de um cenário com múltiplos microsserviços redundantes para um único microsserviço com abstrações para as particularidades de cada integradora e a participação no desenvolvimento da solução de pagamento de cashback por categoria de produto.   
 
 > Principais tecnologias: Go(Gin, Fiber), PostgreSQL, MongoDB, Kafka, Redis, Kubernetes, Open Telemetry, Open Search, Grafana, Prometheus, Jaeger
 
