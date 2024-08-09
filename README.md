@@ -44,7 +44,7 @@ Conclusão em 12/2009
 
 ### 06/2024 - Wellhub(formerly Gympass)   
 
-Atuo como desenvolvedor Go na equipe de Data & Analytics, provendo soluções para área de Marketing. Parte das minhas atribuções consiste em trabalhar na pipeline de dados e integração com plataformas de CRM, sementação de audiências e redes sociais.
+Atuo como desenvolvedor Go na equipe de Data & Analytics, provendo soluções para área de Marketing. Parte das minhas atribuções consiste em trabalhar na pipeline de dados e integração com plataformas de CRM, segmentação de audiências e redes sociais.
 
 > Principais tecnologias: Go(Mux), PostgreSQL, RabbitMQ, Kafka, Redis, Kubernetes, Airflow, Twilio Segment, Braze
 
