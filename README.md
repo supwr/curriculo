@@ -27,7 +27,7 @@ Conclusão em 12/2009
 
 ## Conhecimentos
 
-**Linguagens:** Go, PHP, Python, Javascript, Kotlin, Ruby
+**Linguagens:** Go, PHP, Python, Javascript, Kotlin, Ruby  
 **Frameworks:** Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid, Spring   
 **Ferramentas:** AWS, Docker, Kubernetes, Selenium, Scrapy, Git   
 **Databases:** MSSQL, MySQL, PostgreSQL, MongoDB, Redis
@@ -35,7 +35,7 @@ Conclusão em 12/2009
 
 ## Projetos extracurriculares
 
-* Artigo sobre injeção de dependências em Go, utilizando a ferrament [uber-fx](https://medium.com/@marcelorodrigues/inje%C3%A7%C3%A3o-de-depend%C3%AAncias-em-go-com-fx-402917812b4f) 
+* [Artigo sobre injeção de dependências](https://medium.com/@marcelorodrigues/inje%C3%A7%C3%A3o-de-depend%C3%AAncias-em-go-com-fx-402917812b4f) em Go, utilizando a ferramenta uber-fx
 * Traduções do navegador Chromium para Português Brasileiro.
 * Tradução da Licença LGPL do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Tradução do Manual gnome-user-share do Gnome Desktop versão 3.0, para Português Brasileiro; 
