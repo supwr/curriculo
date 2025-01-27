@@ -20,8 +20,8 @@ Conclusão em 12/2009
 ## Últimos projetos
 
 * Desenvolvimento de microsserviço para integração com a parceira Zapay, possibilitando consulta e pagamento de débitos veiculares dentro do aplicativo da Creditas; 
-* Desenvolvimento Go em microsserviços de integração de afiliados, parte do ecossistema de cashback. Trabalhando em integração com empresas como Amazon, Magazine Luiza e Casas Bahia. Produto teve faturamento ~R$72 milhões no ano de 2023;
-* Participação na arquitetura e implementação dos microsserviços de produto de empréstimo coletivo, especificamente nas jornadas de pedido de empréstimo e investimento em empréstimos. Produto movimentou ~R$350 milhões entre 2022 e 2023;
+* Desenvolvimento Go em microsserviços de integração de afiliados, parte do ecossistema de cashback. Trabalhando em integração com empresas como Amazon, Magazine Luiza e Casas Bahia;
+* Participação na arquitetura e implementação dos microsserviços de produto de empréstimo coletivo, especificamente nas jornadas de pedido de empréstimo e investimento em empréstimos;
 * Manutenção e melhorias no sistema de autoatendimento de varejista de móveis, participando com desenvolvedor e líder técnico na implementação de feature de outlet. Sendo essa categoria responsável por um aumento de 13% nas vendas de lojas em 2021.   
 
 
