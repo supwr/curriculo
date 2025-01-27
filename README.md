@@ -19,6 +19,7 @@ Conclusão em 12/2009
    
 ## Últimos projetos
 
+* Desenvolvimento de microsserviço para integração com a parceira Zapay, possibilitando consulta e pagamento de débitos veiculares dentro do aplicativo da Creditas; 
 * Desenvolvimento Go em microsserviços de integração de afiliados, parte do ecossistema de cashback. Trabalhando em integração com empresas como Amazon, Magazine Luiza e Casas Bahia. Produto teve faturamento ~R$72 milhões no ano de 2023;
 * Participação na arquitetura e implementação dos microsserviços de produto de empréstimo coletivo, especificamente nas jornadas de pedido de empréstimo e investimento em empréstimos. Produto movimentou ~R$350 milhões entre 2022 e 2023;
 * Manutenção e melhorias no sistema de autoatendimento de varejista de móveis, participando com desenvolvedor e líder técnico na implementação de feature de outlet. Sendo essa categoria responsável por um aumento de 13% nas vendas de lojas em 2021.   
@@ -26,14 +27,15 @@ Conclusão em 12/2009
 
 ## Conhecimentos
 
-**Linguagens:** Go, PHP, Python, Javascript   
-**Frameworks:** Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid   
+**Linguagens:** Go, PHP, Python, Javascript, Kotlin, Ruby
+**Frameworks:** Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid, Spring   
 **Ferramentas:** AWS, Docker, Kubernetes, Selenium, Scrapy, Git   
 **Databases:** MSSQL, MySQL, PostgreSQL, MongoDB, Redis
 
 
 ## Projetos extracurriculares
 
+* Artigo sobre injeção de dependências em Go, utilizando a ferrament [uber-fx](https://medium.com/@marcelorodrigues/inje%C3%A7%C3%A3o-de-depend%C3%AAncias-em-go-com-fx-402917812b4f) 
 * Traduções do navegador Chromium para Português Brasileiro.
 * Tradução da Licença LGPL do Gnome Desktop versão 3.0, para Português Brasileiro; 
 * Tradução do Manual gnome-user-share do Gnome Desktop versão 3.0, para Português Brasileiro; 
@@ -42,9 +44,15 @@ Conclusão em 12/2009
 
 ## Experiência Profissional
 
-### 06/2024 - Wellhub(formerly Gympass)   
+### 09/2024 - Creditas   
 
-Atuo como desenvolvedor Go na equipe de Data & Analytics, provendo soluções para área de Marketing. Parte das minhas atribuções consiste em trabalhar na pipeline de dados e integração com plataformas de CRM, segmentação de audiências e redes sociais.
+Atuo como desenvolvedor backend na equipe de Auto Equity, criando novas funcionalidades e dando sustentação no produto de Empréstimo Auto. Destaco minha atuação na criação de solução para pagamento de débitos veiculares, criando novo microsserviço responsável pela integração com parceiro e com nossas ferramentas de CDP(consumer data platform) e CRM. 
+
+> Principais tecnologias: Kotlin, SpringBoot, PostgreSQL, SQS, Kafka, Redis, Kubernetes, Ruby
+
+### 06/2024 á 09/2024 - Wellhub(formerly Gympass)   
+
+Atuei como desenvolvedor Go na equipe de Data & Analytics, provendo soluções para área de Marketing. Parte das minhas atribuções consiste em trabalhar na pipeline de dados e integração com plataformas de CRM, segmentação de audiências e redes sociais.
 
 > Principais tecnologias: Go(Mux), PostgreSQL, RabbitMQ, Kafka, Redis, Kubernetes, Airflow, Twilio Segment, Braze
 
