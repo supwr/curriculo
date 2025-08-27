@@ -44,9 +44,13 @@ Conclusão em 12/2009
 
 ## Experiência Profissional
 
-### 09/2024 - Creditas   
+### 04/2025 - PicPay
 
-Atuo como desenvolvedor backend na equipe de Auto Equity, criando novas funcionalidades e dando sustentação no produto de Empréstimo Auto. Destaco minha atuação na criação de solução para pagamento de débitos veiculares, criando novo microsserviço responsável pela integração com parceiro e com nossas ferramentas de CDP(consumer data platform) e CRM. 
+Atualmente trabalho como engenheiro de software sênior, na equipe de Experiência de Checkout, no aplicativo PicPay Empresas. Participando na entrega de funcionalidades como: pagamento via Pix com cartão de crédito e pagamento de boleto utilizando múltiplas formas de pagamento (split payment).
+
+### 09/2024 á 03/2025 - Creditas   
+
+Atuei como desenvolvedor backend na equipe de Auto Equity, criando novas funcionalidades e dando sustentação no produto de Empréstimo Auto. Destaco minha atuação na criação de solução para pagamento de débitos veiculares, criando novo microsserviço responsável pela integração com parceiro e com nossas ferramentas de CDP(consumer data platform) e CRM. 
 
 > Principais tecnologias: Kotlin, SpringBoot, PostgreSQL, SQS, Kafka, Redis, Kubernetes, Ruby
 
