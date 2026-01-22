@@ -44,19 +44,28 @@ Conclusão em 12/2009
 
 ## Experiência Profissional
 
-### 04/2025 - PicPay
+### 03/2025 - PicPay
 
-Atualmente trabalho como engenheiro de software sênior, na equipe de Experiência de Checkout, no aplicativo PicPay Empresas. Participando na entrega de funcionalidades como: pagamento via Pix com cartão de crédito e pagamento de boleto utilizando múltiplas formas de pagamento (split payment).
+**Desenvolvedor backend | Experiência de Checkout/Extrato - Empresas** 
 
-### 09/2024 á 03/2025 - Creditas   
+Atualmente trabalho como engenheiro de software sênior, na equipe de Experiência de Checkout, no aplicativo PicPay Empresas. Participando na entrega de funcionalidades como: pagamento via Pix com cartão de crédito e pagamento de boleto utilizando múltiplas formas de pagamento (split payment). 
+Á partir de Outubro de 2025, fiquei responsável também pelo produto de Extrato, no aplicativo PicPay Empresas. Com atuação direta no fluxo de captação de transações, enriquecimento e disponibilidade dos dados (via REST API) para os canais de App, Painel do Cliente e backoffice.
 
-Atuei como desenvolvedor backend na equipe de Auto Equity, criando novas funcionalidades e dando sustentação no produto de Empréstimo Auto. Destaco minha atuação na criação de solução para pagamento de débitos veiculares, criando novo microsserviço responsável pela integração com parceiro e com nossas ferramentas de CDP(consumer data platform) e CRM. 
+> Principais tecnologias: PHP, HyperF, Kotlin, SpringBoot, PostgreSQL, MongoDB, Kafka, Redis, Kubernetes
+
+### 09/2024 á 03/2025 - Creditas
+
+**Desenvolvedor backend | Auto Equity** 
+
+Atuei como desenvolvedor backend, criando novas funcionalidades e dando sustentação no produto de Empréstimo Auto. Destaco minha atuação na criação de solução para pagamento de débitos veiculares, criando novo microsserviço responsável pela integração com parceiro e com nossas ferramentas de CDP(consumer data platform) e CRM. 
 
 > Principais tecnologias: Kotlin, SpringBoot, PostgreSQL, SQS, Kafka, Redis, Kubernetes, Ruby
 
 ### 06/2024 á 09/2024 - Wellhub(formerly Gympass)   
 
-Atuei como desenvolvedor Go na equipe de Data & Analytics, provendo soluções para área de Marketing. Parte das minhas atribuções consiste em trabalhar na pipeline de dados e integração com plataformas de CRM, segmentação de audiências e redes sociais.
+**Desenvolvedor backend Go | Data & Analytics**   
+
+Atuei como desenvolvedor sênior, provendo soluções para área de Marketing. Parte das minhas atribuções consiste em trabalhar na pipeline de dados e integração com plataformas de CRM, segmentação de audiências e redes sociais.
 
 > Principais tecnologias: Go(Mux), PostgreSQL, RabbitMQ, Kafka, Redis, Kubernetes, Airflow, Twilio Segment, Braze
 
