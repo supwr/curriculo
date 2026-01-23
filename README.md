@@ -37,6 +37,14 @@ Conclusão: 12/2009
 **Databases:** MSSQL, MySQL, PostgreSQL, MongoDB, Redis  
 **Versionamento:** Git  
 
+## Projetos e Contribuições Open Source
+
+- Autor de artigo técnico sobre Injeção de Dependência em Go utilizando a ferramenta Uber FX, [publicado no Medium](https://medium.com/@marcelorodrigues/inje%C3%A7%C3%A3o-de-depend%C3%AAncias-em-go-com-fx-402917812b4f).
+- Contribuições para traduções do navegador Chromium para Português Brasileiro.
+- Tradução da Licença LGPL do Gnome Desktop versão 3.0 para Português Brasileiro.
+- Tradução do manual gnome-user-share do Gnome Desktop versão 3.0 para Português Brasileiro.
+- Contribuições em projetos de internacionalização de aplicativos do sistema operacional Ubuntu.
+
 ## Experiência Profissional
 
 ### 03/2025 - Atual | PicPay
