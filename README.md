@@ -1,150 +1,181 @@
 
 ## Marcelo Rodrigues Pires Filho
 
-Praia Grande - SP   
-Cel.: (13)991469895   
-E-mail: marcelo.rodriguespires@gmail.com   
-https://github.com/supwr   
+Praia Grande - SP  
+Cel.: (13) 99146-9895  
+E-mail: marcelo.rodriguespires@gmail.com  
+https://github.com/supwr  
+
+## Resumo Profissional
+
+Engenheiro de Software Sênior com mais de 10 anos de experiência em desenvolvimento backend e arquitetura de sistemas distribuídos. Forte atuação em microsserviços, produtos financeiros e plataformas de alto volume, utilizando principalmente Go, PHP e Kotlin. Experiência em liderança técnica, definição de padrões de engenharia, participação em arquitetura corporativa e condução de entrevistas técnicas.
 
 ## Formação Acadêmica
 
-**FIAP**   
-Pós Graduação em Arquitetura de Software   
-Conclusão 09/2024   
+**FIAP**  
+Pós-graduação em Arquitetura de Software  
+Conclusão: 09/2024  
 
+**FATEC Baixada Santista - Rubens Lara**  
+Informática para Gestão de Negócios  
+Conclusão: 12/2009  
 
-**FATEC Baixada Santista - Rubens Lara**   
-Informática para gestão de Negócios   
-Conclusão em 12/2009   
-   
-## Últimos projetos
+## Últimos Projetos
 
-* Desenvolvimento de microsserviço para integração com a parceira Zapay, possibilitando consulta e pagamento de débitos veiculares dentro do aplicativo da Creditas; 
-* Desenvolvimento Go em microsserviços de integração de afiliados, parte do ecossistema de cashback. Trabalhando em integração com empresas como Amazon, Magazine Luiza e Casas Bahia;
-* Participação na arquitetura e implementação dos microsserviços de produto de empréstimo coletivo, especificamente nas jornadas de pedido de empréstimo e investimento em empréstimos;
-* Manutenção e melhorias no sistema de autoatendimento de varejista de móveis, participando com desenvolvedor e líder técnico na implementação de feature de outlet. Sendo essa categoria responsável por um aumento de 13% nas vendas de lojas em 2021.   
-
+- Desenvolvimento de microsserviço responsável pela integração com a parceira Zapay, viabilizando consulta e pagamento de débitos veiculares diretamente no aplicativo da Creditas.  
+- Desenvolvimento em Go de microsserviços de integração com afiliados, parte do ecossistema de cashback, integrando plataformas como Amazon, Magazine Luiza e Casas Bahia.  
+- Participação na definição de arquitetura e implementação dos microsserviços do produto de empréstimo coletivo, especialmente nas jornadas de solicitação de empréstimo e investimento.  
+- Atuação como desenvolvedor e líder técnico na evolução do sistema de autoatendimento de uma grande varejista de móveis, incluindo a implementação da feature de outlet, responsável por aumento de 13% nas vendas das lojas físicas em 2021.  
 
 ## Conhecimentos
 
-**Linguagens:** Go, PHP, Python, Javascript, Kotlin, Ruby  
-**Frameworks:** Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid, Spring   
-**Ferramentas:** AWS, Docker, Kubernetes, Selenium, Scrapy, Git   
-**Databases:** MSSQL, MySQL, PostgreSQL, MongoDB, Redis
-
-
-## Projetos extracurriculares
-
-* [Artigo sobre injeção de dependências](https://medium.com/@marcelorodrigues/inje%C3%A7%C3%A3o-de-depend%C3%AAncias-em-go-com-fx-402917812b4f) em Go, utilizando a ferramenta uber-fx
-* Traduções do navegador Chromium para Português Brasileiro.
-* Tradução da Licença LGPL do Gnome Desktop versão 3.0, para Português Brasileiro; 
-* Tradução do Manual gnome-user-share do Gnome Desktop versão 3.0, para Português Brasileiro; 
-* Traduções aplicativos para o sistema operacional Ubuntu. 
-
+**Linguagens:** Go, PHP, Python, JavaScript, Kotlin, Ruby  
+**Frameworks:** Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid, Spring  
+**Cloud & DevOps:** AWS, Docker, Kubernetes  
+**Mensageria & Observabilidade:** Kafka, RabbitMQ, OpenTelemetry  
+**Automação & Scraping:** Selenium, Scrapy  
+**Databases:** MSSQL, MySQL, PostgreSQL, MongoDB, Redis  
+**Versionamento:** Git  
 
 ## Experiência Profissional
 
-### 03/2025 - PicPay
+### 03/2025 - Atual | PicPay
 
-**Desenvolvedor backend | Experiência de Checkout/Extrato - Empresas** 
+**Engenheiro de Software Sênior | Checkout & Extrato - PicPay Empresas**
 
-Atualmente trabalho como engenheiro de software sênior, na equipe de Experiência de Checkout, no aplicativo PicPay Empresas. Participando na entrega de funcionalidades como: pagamento via Pix com cartão de crédito e pagamento de boleto utilizando múltiplas formas de pagamento (split payment). 
-Á partir de Outubro de 2025, fiquei responsável também pelo produto de Extrato, no aplicativo PicPay Empresas. Com atuação direta no fluxo de captação de transações, enriquecimento e disponibilidade dos dados (via REST API) para os canais de App, Painel do Cliente e backoffice.
+Engenheiro de Software Sênior atuando no produto PicPay Empresas, com foco em soluções de pagamento e experiência de checkout para clientes PJ.
 
-> Principais tecnologias: PHP, HyperF, Kotlin, SpringBoot, PostgreSQL, MongoDB, Kafka, Redis, Kubernetes
+- Desenvolvimento de funcionalidades críticas como Pix com cartão de crédito e split payment em boletos.  
+- Responsável pelo produto de Extrato, atuando no fluxo de captação, enriquecimento e disponibilização de transações via APIs REST para App, Painel do Cliente e backoffice.  
+- Atuação em arquitetura de serviços, definição de contratos de integração e observabilidade de sistemas distribuídos.  
+- Participação ativa em entrevistas técnicas e definição de padrões de engenharia entre squads.  
 
-### 09/2024 á 03/2025 - Creditas
+> Principais tecnologias: PHP, HyperF, Kotlin, Spring Boot, PostgreSQL, MongoDB, Kafka, Redis, Grafana, Dynatrace, OpenTelemetry, Kubernetes.
 
-**Desenvolvedor backend | Auto Equity** 
+### 09/2024 - 03/2025 | Creditas
 
-Atuei como desenvolvedor backend, criando novas funcionalidades e dando sustentação no produto de Empréstimo Auto. Destaco minha atuação na criação de solução para pagamento de débitos veiculares, criando novo microsserviço responsável pela integração com parceiro e com nossas ferramentas de CDP(consumer data platform) e CRM. 
+**Engenheiro de Software  | Auto Equity**
 
-> Principais tecnologias: Kotlin, SpringBoot, PostgreSQL, SQS, Kafka, Redis, Kubernetes, Ruby
+Atuação como engenheiro de software  backend no produto de Empréstimo Auto, com foco em criação de novas funcionalidades e sustentação de sistemas críticos.
 
-### 06/2024 á 09/2024 - Wellhub(formerly Gympass)   
+- Desenvolvimento de solução para pagamento de débitos veiculares, incluindo criação de novo microsserviço de integração com parceiro externo.  
+- Integração com plataformas internas de CDP (Consumer Data Platform) e CRM.  
+- Participação em definições de arquitetura, contratos de APIs e estratégias de mensageria.  
 
-**Desenvolvedor backend Go | Data & Analytics**   
+> Principais tecnologias: Kotlin, Spring Boot, PostgreSQL, SQS, Kafka, Redis, Kubernetes, Ruby.
 
-Atuei como desenvolvedor sênior, provendo soluções para área de Marketing. Parte das minhas atribuções consiste em trabalhar na pipeline de dados e integração com plataformas de CRM, segmentação de audiências e redes sociais.
+### 06/2024 - 09/2024 | Wellhub (formerly Gympass)
 
-> Principais tecnologias: Go(Mux), PostgreSQL, RabbitMQ, Kafka, Redis, Kubernetes, Airflow, Twilio Segment, Braze
+**Engenheiro de Software Go | Data & Analytics**
 
-### 03/2021 á 04/2024 - PicPay   
+Atuação como engenheiro de software sênior na área de Data & Analytics, provendo soluções para times de Marketing.
 
-**Desenvolvedor backend Go | Integração de afiliados**   
+- Desenvolvimento de pipelines de dados para integração com plataformas de CRM e segmentação de audiências.  
+- Integração com redes sociais e plataformas de automação de marketing.  
+- Implementação de soluções orientadas a eventos e processamento assíncrono.  
 
-Trabalhei como desenvolvedor Go (Gin, Fiber) no produto de cashback, com foco na comunicação com diversas integradoras para consolidação das transações passíveis de pagamento de cashback. Durante minha atuação no produto, destaco meu trabalho na evolução da arquitetura da solução, migrando de um cenário com múltiplos microsserviços redundantes para um único microsserviço com abstrações para as particularidades de cada integradora e a participação no desenvolvimento da solução de pagamento de cashback por categoria de produto.   
+> Principais tecnologias: Go (Mux), PostgreSQL, RabbitMQ, Kafka, Redis, Kubernetes, Airflow, Twilio Segment, Braze.
 
-> Principais tecnologias: Go(Gin, Fiber), PostgreSQL, MongoDB, Kafka, Redis, Kubernetes, Open Telemetry, Open Search, Grafana, Prometheus, Jaeger
+### 03/2021 - 04/2024 | PicPay
 
-**Desenvolvedor backend PHP | Empréstimo coletivo**   
+**Engenheiro de Software Go | Integração de Afiliados**
 
-Atuei como desenvolvedor PHP (Laravel, Swoole, HyperF) no produto de empréstimo coletivo. Destaco a atuação desde a concepção até a entrega do produto: passando por discussões de arquitetura, definição de padrões e templates para as squads da tribo, separação de responsabilidades em microsserviços, melhorias e evolução do produto adicionando novas funcionalidades após entrega ao público. Eventualmente atuei como Tech Lead da equipe de Aquisição de Empréstimos.   
+- Desenvolvimento de microsserviços em Go (Gin, Fiber) no produto de cashback.  
+- Evolução da arquitetura da solução, migrando de múltiplos microsserviços redundantes para um serviço unificado com abstrações por integradora.  
+- Participação no desenvolvimento da solução de pagamento de cashback por categoria de produto.  
 
-> Principais tecnologias: PHP 8, Laravel 8, HyperF, MySQL, MongoDB, Kafka, Redis, Kubernetes, Grafana
+> Principais tecnologias: Go (Gin, Fiber), PostgreSQL, MongoDB, Kafka, Redis, Kubernetes, OpenTelemetry, OpenSearch, Grafana, Prometheus, Jaeger.
 
+**Engenheiro de Software PHP | Empréstimo Coletivo**
 
-### 03/2020 á 03/2021 - Mobly   
+- Atuação desde a concepção até a entrega do produto de empréstimo coletivo.  
+- Participação em discussões de arquitetura, definição de padrões e templates para squads.  
+- Eventual atuação como Tech Lead da equipe de Aquisição de Empréstimos.  
 
-**Desenvolvedor Full Stack / Tech Lead | Canal de vendas offline**   
+> Principais tecnologias: PHP 8, Laravel 8, HyperF, MySQL, MongoDB, Kafka, Redis, Kubernetes, Grafana.
 
-Iniciei minha experiência na empresa como desenvolvedor full stack(Laravel, VueJs) na equipe de canal de vendas offline, responsável pelo sistema de auto atendimento disponível nas lojas físicas da Mobly. Durante meu tempo na empresa atuei com o desenvolvimento de novas funcionalidades no sistema, integrando o auto atendimento com sistema fiscal, estoque, frete e pagamento; com destaque á entrega da solução de oferta de produtos de outlet, entre outras funcionalidades no sistema, além da atuação como Tech Lead da squad.   
+---
 
-> Principais tecnologias: PHP 8, Laravel, VueJs, Typescript, MySQL, Redis, Docker
+### 03/2020 - 03/2021 | Mobly
 
-### 09/2018 á 03/2020 - Zap Trade IT & ECM Solutions   
+**Desenvolvedor Full Stack / Tech Lead | Canal de Vendas Offline**
 
-**Desenvolvedor Full Stack | Backend, Mobile & Python RPA**   
+- Desenvolvimento de novas funcionalidades no sistema de autoatendimento das lojas físicas.
+- Integração com sistemas fiscais, estoque, frete e pagamento.
+- Liderança técnica da squad e implementação da feature de outlet, responsável por aumento de 13% nas vendas.
 
-Atuando como desenvolvedor full stack, durante meu tempo com a empresa trabalhei em diversas soluções para empresas do setor portuário; desenvolvendo soluções como: sistemas de registro de ocorrências, sistema de controle de onboarding, suite de soluções para o setor jurídico, RPA para monitoramento de contêneres refrigerados, entre outras soluções.   
+> Principais tecnologias: PHP 8, Laravel, Vue.js, TypeScript, MySQL, Redis, Docker.
 
-> Principais tecnologias: PHP, Symfony 4, Ionic 3, Typescript, Python, Selenium, MySQL, SQLite
+---
 
+### 09/2018 - 03/2020 | Zap Trade IT & ECM Solutions
 
-### 04/2018 á 09/2018 - CRM Zen   
+**Desenvolvedor Full Stack | Backend, Mobile & Python RPA**
 
-**Desenvolvedor Full Stack | CRM e Mobile app**   
+- Desenvolvimento de soluções para empresas do setor portuário.
+- Criação de sistemas de registro de ocorrências e onboarding.
+- Desenvolvimento de RPA para monitoramento de contêineres refrigerados.
 
-Trabalhei como desenvolvedor full stack, com foco no desenvolvimento mobile e API backend, utilizando Ionic e PHP. Além de atuar com desenvolvimento backend do produto principal de CRM, destaco o desenvolvimento de app para check-in de equipes de vendas, com funcionalidade de uso online e offline. Atuando no desenvolvimento do app, publicação nas stores da [Apple](https://apps.apple.com/br/app/check-in/id1399022864) e [Google](https://play.google.com/store/apps/details?id=com.crmzen.checkin&hl=pt_PT&gl=US) e API backend.   
+> Principais tecnologias: PHP, Symfony 4, Ionic 3, TypeScript, Python, Selenium, MySQL, SQLite.
 
-> Principais tecnologias: PHP, Ionic 3, Typescript, MSSQL, ASP Clássico
+---
 
+### 04/2018 - 09/2018 | CRM Zen
 
-### 12/2017 á 4/2018 - Folha de São Paulo   
+**Desenvolvedor Full Stack | CRM e Mobile App**
 
-**Desenvolvedor PHP | TransFolha**   
+- Desenvolvimento de APIs backend e aplicações mobile para CRM.
+- Implementação de app de check-in de equipes de vendas com suporte offline.
+- Publicação de aplicativo nas lojas Apple App Store e Google Play.
 
-Atuei como desenvolvedor na solução de logística da Folha de São Paulo(TransFolha), atuando em soluções de backoffice; incluindo sistema de atendimento ao cliente, monitoria de chamados e relatórios.
+> Principais tecnologias: PHP, Ionic 3, TypeScript, MSSQL, ASP Clássico.
 
-> Principais tecnologias: PHP, MySQL, Javascript, JQuery, Bootstrap, CSS   
+---
 
+### 12/2017 - 04/2018 | Folha de São Paulo
 
-### 03/2015 á 12/2017 - Zap Trade IT & ECM Solutions   
+**Desenvolvedor PHP | TransFolha**
 
-**Desenvolvedor PHP | Fábrica de software**   
+- Desenvolvimento de soluções de backoffice para logística.
+- Implementação de sistemas de atendimento ao cliente e relatórios operacionais.
 
-Atuei como desenvolvedor PHP, desenvolvendo soluções multi-tenant de ECM e workflow de aprovação e versionamento de documentos, atendendo empresas como Riachuelo, Brasil Terminal Portuário, Maersk, entre outras.   
+> Principais tecnologias: PHP, MySQL, JavaScript, jQuery, Bootstrap, CSS.
 
-> Principais tecnologias: PHP, Symfony 2.8, MySQL, Ionic2, Typescript, Bootstrap, JQuery, CSS   
+---
 
+### 03/2015 - 12/2017 | Zap Trade IT & ECM Solutions
 
-### 07/2013 a 03/2015 - CRM Zen / Wsoma Soluções Web   
+**Desenvolvedor PHP | Fábrica de Software**
 
-**Desenvolvedor Asp Clássico | CRM e fábrica de software**   
+- Desenvolvimento de soluções multi-tenant de ECM e workflow.
+- Atendimento a clientes como Riachuelo, Maersk e Brasil Terminal Portuário.
 
-Trabalhei como desenvolvedor ASP clássico, adicionando novas funcionalidades ao produto de CRM, com destaque á criação de board colaborativo multimídia, onde usuários podiam adicionar textos, imagens, vídeos e embeds de diversos sites; solução de leads e suporte aos sistemas de clientes da fábrica de software.
+> Principais tecnologias: PHP, Symfony 2.8, MySQL, Ionic 2, TypeScript, Bootstrap.
 
-> Principais tecnologias: ASP Clássico, .NET(C#), Javascript, NodeJS, Express, MSSQL, HTML, CSS   
+---
 
- 
-### 05/2011 a 10/2012 - MM Santos Informática
+### 07/2013 - 03/2015 | CRM Zen / Wsoma Soluções Web
 
-**Desenvolvedor Backend | ERP e integrações**
+**Desenvolvedor ASP Clássico | CRM e Fábrica de Software**
 
-Atuei com desenvolvimento de novas funcionalidades e manutenção do ERP da empresa. Entre as novas funcionalidades destaco a implementação de sistema de holerite eletrônico, extinguindo a necessidade da sua versão impressa enviada pela contabilidade. Também desenvolvi sistema de recarga de crédito para celular pré-pago, integrado ao ERP da empresa e liderei projeto de desenvolvimento de solução para emissão de nota fiscal eletrônica contemplando as 13 lojas da rede.   
+- Evolução do produto de CRM com novas funcionalidades colaborativas.
+- Desenvolvimento de board multimídia com suporte a textos, imagens e vídeos.
+- Implementação de soluções de leads e suporte a sistemas de clientes.
 
-> Principais tecnologias: Asp Clássico, PHP, .NET(C#), SOAP, MSSQL, XML, Javascript, CSS, HTML
+> Principais tecnologias: ASP Clássico, .NET (C#), JavaScript, Node.js, Express, MSSQL.
 
+---
 
-### Idiomas
+### 05/2011 - 10/2012 | MM Santos Informática
+
+**Desenvolvedor Backend | ERP e Integrações**
+
+- Desenvolvimento e manutenção de ERP.
+- Implementação de sistema de holerite eletrônico.
+- Liderança de projeto para emissão de nota fiscal eletrônica para 13 lojas.
+
+> Principais tecnologias: ASP Clássico, PHP, .NET (C#), SOAP, MSSQL, XML.
+
+## Idiomas
+
 Inglês
