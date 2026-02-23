@@ -1,123 +1,177 @@
-
 ## Marcelo Rodrigues Pires Filho
 
-Praia Grande - SP   
-Cel.: (13)991469895   
-E-mail: marcelo.rodriguespires@gmail.com   
+Praia Grande - SP, Brazil\
+Phone: +55 (13) 99146-9895\
+E-mail: marcelo.rodriguespires@gmail.com\
 https://github.com/supwr
+
+## Professional Summary
+
+Senior Software Engineer with over 10 years of experience in backend development and distributed systems architecture. Strong background in microservices, financial products, and high-volume platforms, primarily
+using Go, PHP, and Kotlin. Experience in technical leadership, defining engineering standards, participating in corporate architecture discussions, and conducting technical interviews.
 
 ## Education
 
-**FIAP**   
-MBA in Software Architecture   
+**FIAP**\
+MBA in Software Architecture\
 September 2023 - June 2024
 
+**FATEC Baixada Santista - Rubens Lara**\
+Technology Degree in Information Science\
+February 2006 - December 2009
 
-**São Paulo State Tech College**   
-Technologist Degree in Information Science   
-Conclusão em 12/2009
+## Recent Projects
 
-## Latest projects
+-   Development of a microservice responsible for integration with Zapay, enabling vehicle debt inquiry and payment directly within the Creditas app.
+-   Development of affiliate integration microservices (using Go), as part of the cashback ecosystem, integrating platforms such as Amazon, Magazine Luiza, and Casas Bahia.
+-   Architecture definition and implementation of microservices for the peer-to-peer lending product, with focus on loan request and investment journeys.
+-   Acted as both developer and technical lead in the evolution of the self-service system for a major furniture retailer, including the implementation of the outlet feature, responsible for a 13% increase in brick-and-mortar sales in 2021.
 
-* Go development in affiliate integration microservices, integral to the cashback ecosystem. Collaborating on integration with major companies such as Amazon, Magazine Luiza, and Casas Bahia. The product generated approximately R$72 million in revenue in 2023;
-* Engaged in the architecture and implementation of microservices for collective loan products, with a specific focus on loan application processes and loan investment journeys. The product facilitated transactions totaling approximately R$350 million between 2022 and 2023;
-* Maintenance and enhancements of the self-service system for a furniture retailer, contributing as a developer and tech lead in implementing the outlet feature. This category attributed to a 13% increase in store sales in 2021.
+## Skills
 
+**Languages:** Go, PHP, Python, JavaScript, Kotlin, Ruby\
+**Frameworks:** Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid,
+Spring\
+**Cloud & DevOps:** AWS, Docker, Kubernetes\
+**Messaging & Observability:** Kafka, RabbitMQ, OpenTelemetry\
+**Automation & Scraping:** Selenium, Scrapy\
+**Databases:** MSSQL, MySQL, PostgreSQL, MongoDB, Redis\
+**Version Control:** Git
 
-## Technical Proficiencies
+## Open Source Projects & Contributions
 
-**Languages:** Go, PHP, Python, Javascript   
-**Frameworks:** Gin, Gorilla/Mux, Laravel, Symfony, Flask, Pyramid   
-**Tools:** AWS, Docker, Kubernetes, Selenium, Scrapy, Git   
-**Databases:** MSSQL, MySQL, PostgreSQL, MongoDB, Redis
-
-
-## Extracurricular Activities
-
-* Translations of the Chromium browser into Brazilian Portuguese;
-* Translation of the LGPL license of the Gnome Desktop version 3.0 into Brazilian Portuguese;
-* Translation of the gnome-user-share Manual for the Gnome Desktop version 3.0 into Brazilian Portuguese;
-* Translations of applications for the Ubuntu operating system into Brazilian Portuguese.
-
+-   Author of a technical article about Dependency Injection in Go using Uber FX, [published on Medium](https://medium.com/@marcelorodrigues/inje%C3%A7%C3%A3o-de-depend%C3%AAncias-em-go-com-fx-402917812b4f).
+-   Contributions to Chromium browser translations into Brazilian Portuguese.
+-   Translation of the LGPL License for Gnome Desktop version 3.0 into Brazilian Portuguese.
+-   Translation of the gnome-user-share manual for Gnome Desktop version 3.0 into Brazilian Portuguese.
+-   Contributions to internationalization projects for Ubuntu operating system applications.
 
 ## Professional Experience
 
-### 03/2021 - PicPay
+### 03/2025 - Present | PicPay
 
-**Backend Go Developer | Affiliate Integration**
+**Senior Software Engineer | Checkout & Statement - PicPay for Enterprises**
 
-Currently, I work as a Go developer (using Gin and Fiber) on the cashback product, focusing on communication with various integrators to consolidate transactions eligible for cashback payments. Throughout my involvement with the product, I emphasize my contribution to advancing the solution's architecture, transitioning from a scenario with multiple redundant microservices to a unified microservice with abstractions tailored to each integrator's specificities. Additionally, I played a key role in developing the cashback payment solution by product category.
+Senior Software Engineer working on the PicPay for Enterprises product, focused on payment solutions and the checkout experience.
 
-> Key Technologies: Go (Gin, Fiber), PostgreSQL, MongoDB, Kafka, Redis, Kubernetes, OpenTelemetry, OpenSearch, Grafana, Prometheus, Jaeger
+-   Development of critical features such as Pix with credit card and boleto split payment.
+-   Senior developer on the squad responsible for the Account Statement product, working on transaction ingestion, enrichment, and exposure through REST APIs for the App, Customer Portal, and back-office systems.
+-   Direct contribution to service architecture, integration contract definition, and distributed systems observability.
+-   Active participation in technical interviews and cross-squad engineering standards definition.
 
-**Backend Developer PHP | Peer to Peer Lending**
+> Main technologies: PHP, HyperF, Kotlin, Spring Boot, PostgreSQL, MongoDB, Kafka, Redis, Grafana, Dynatrace, OpenTelemetry, Kubernetes.
 
-I worked as a PHP developer (using Laravel, Swoole, HyperF) on the collective lending product. My involvement spanned from conceptualization to product delivery, encompassing architecture discussions, definition of standards, and templates for tribe squads, segregation of responsibilities into microservices, and ongoing product enhancement by introducing new features post-public launch. Additionally, I occasionally served as the Tech Lead for the Loan Acquisition team.
+### 09/2024 - 03/2025 | Creditas
 
-> Key Technologies: PHP 8, Laravel 8, HyperF, MySQL, MongoDB, Kafka, Redis, Kubernetes, Grafana
+**Software Engineer | Auto Equity**
 
+Acted as a backend software engineer on the Auto Loan product, focused on new feature development and critical system maintenance.
 
-### 03/2020 to 03/2021 - Mobly
+-   Development of a vehicle debt payment solution, including creation of a new microservice for external partner integration.
+-   Integration with internal CDP (Consumer Data Platform) and CRM systems.
+-   Participation in architecture discussions, API contract definitions, and messaging strategies.
+
+> Main technologies: Kotlin, Spring Boot, PostgreSQL, SQS, Kafka, Redis, Kubernetes, Ruby.
+
+### 06/2024 - 09/2024 | Wellhub (formerly Gympass)
+
+**Senior Go Software Engineer | Data & Analytics**
+
+Acted as a senior software engineer in the Data & Analytics domain, delivering solutions for Marketing teams.
+
+-   Development of data pipelines for integration with CRM platforms and audience segmentation tools.
+-   Integration with social networks and marketing automation platforms.
+-   Implementation of event-driven and asynchronous processing solutions.
+
+> Main technologies: Go (Mux), PostgreSQL, RabbitMQ, Kafka, Redis, Kubernetes, Airflow, Twilio Segment, Braze.
+
+### 03/2021 - 04/2024 | PicPay
+
+**Go Software Engineer | Affiliate Integration**
+
+-   Development of microservices in Go (Gin, Fiber) for the cashback product.
+-   Architecture evolution, migrating from multiple redundant microservices to a unified service with abstractions per integrator.
+-   Participation in the development of category-based cashback payment solution.
+
+> Main technologies: Go (Gin, Fiber), PostgreSQL, MongoDB, Kafka, Redis, Kubernetes, OpenTelemetry, OpenSearch, Grafana, Prometheus, Jaeger.
+
+**PHP Software Engineer | Peer-to-Peer Lending**
+
+-   Worked from product conception to delivery of the peer-to-peer lending solution.
+-   Participation in architecture discussions and definition of engineering standards and templates for squads.
+-   Occasional role as Tech Lead for the Loan Acquisition team.
+
+> Main technologies: PHP 8, Laravel 8, HyperF, MySQL, MongoDB, Kafka, Redis, Kubernetes, Grafana.
+
+### 03/2020 - 03/2021 | Mobly
 
 **Full Stack Developer / Tech Lead | Offline Sales Channel**
 
-I began my journey with the company as a full-stack developer (Laravel, VueJs) in the offline sales channel team, responsible for the self-service system available in Mobly's physical stores. During my tenure, I contributed to developing new functionalities in the system, integrating self-service with fiscal, inventory, shipping, and payment systems. A notable achievement includes delivering the outlet product offering solution, among other system functionalities, and acting as the Tech Lead for the squad.
+-   Development of new features in the physical store self-service system.
+-   Integration with tax systems, inventory, shipping, and payments.
+-   Technical leadership of the squad and implementation of the outlet feature, responsible for a 13% increase in sales.
 
-> Key Technologies: PHP 8, Laravel, VueJs, Typescript, MySQL, Redis, Docker
+> Main technologies: PHP 8, Laravel, Vue.js, TypeScript, MySQL, Redis, Docker.
 
-### 09/2018 to 03/2020 - Zap Trade IT & ECM Solutions
+### 09/2018 - 03/2020 | Zap Trade IT & ECM Solutions
 
 **Full Stack Developer | Backend, Mobile & Python RPA**
 
-As a full-stack developer, I worked on various solutions for companies in the port sector. Projects included incident reporting systems, onboarding control systems, a suite of solutions for the legal sector, RPA for refrigerated container monitoring, among others.
+-   Development of solutions for companies in the port industry.
+-   Creation of incident reporting and onboarding systems.
+-   Development of RPA solutions for monitoring refrigerated containers.
 
-> Key Technologies: PHP, Symfony 4, Ionic 3, Typescript, Python, Selenium, MySQL, SQLite
+> Main technologies: PHP, Symfony 4, Ionic 3, TypeScript, Python, Selenium, MySQL, SQLite.
 
+### 04/2018 - 09/2018 | CRM Zen
 
-### 04/2018 to 09/2018 - CRM Zen
+**Full Stack Developer | CRM & Mobile App**
 
-**Full Stack Developer | CRM and Mobile App**
+-   Development of backend APIs and mobile CRM applications.
+-   Implementation of a sales team check-in app with offline support.
+-   Publishing of applications to Apple App Store and Google Play.
 
-At CRM Zen, I focused on mobile development and backend API, utilizing Ionic and PHP. Additionally, I contributed to the backend development of the main CRM product and developed a sales team check-in app with both online and offline capabilities. I was involved in app development, publication on Apple and Google stores, and backend API.
+> Main technologies: PHP, Ionic 3, TypeScript, MSSQL, Classic ASP.
 
-> Key Technologies: PHP, Ionic 3, Typescript, MSSQL, ASP
-
-
-### 12/2017 to 4/2018 - Folha de São Paulo
+### 12/2017 - 04/2018 | Folha de São Paulo
 
 **PHP Developer | TransFolha**
 
-I worked as a developer on Folha de São Paulo's logistics solution (TransFolha), focusing on back-office solutions, including customer service systems, ticket monitoring, and reporting.
+-   Development of back-office logistics solutions.
+-   Implementation of customer service systems and operational reports.
 
-> Key Technologies: PHP, MySQL, Javascript, JQuery, Bootstrap, CSS
+> Main technologies: PHP, MySQL, JavaScript, jQuery, Bootstrap, CSS.
 
-
-### 03/2015 to 12/2017 - Zap Trade IT & ECM Solutions
+### 03/2015 - 12/2017 | Zap Trade IT & ECM Solutions
 
 **PHP Developer | Software Factory**
 
-As a PHP developer, I built multi-tenant ECM solutions and document approval workflow systems, serving clients such as Riachuelo, Brasil Terminal Portuário, Maersk, among others.
+-   Development of multi-tenant ECM and workflow solutions.
+-   Served clients such as Riachuelo, Maersk, and Brasil Terminal
+    Portuário.
 
-> Key Technologies: PHP, Symfony 2.8, MySQL, Ionic2, Typescript, Bootstrap, JQuery, CSS
+> Main technologies: PHP, Symfony 2.8, MySQL, Ionic 2, TypeScript, Bootstrap.
 
+### 07/2013 - 03/2015 | CRM Zen / Wsoma Soluções Web
 
-### 07/2013 to 03/2015 - CRM Zen / Wsoma Soluções Web
+**Classic ASP Developer | CRM & Software Factory**
 
-**ASP Developer | CRM and Software Factory**
+-   Evolution of CRM product with new collaborative features.
+-   Development of a multimedia board supporting text, images, and  videos.
+-   Implementation of lead management and client system support solutions.
 
-I worked as an ASP developer, adding new features to the CRM product, including the creation of a collaborative multimedia board where users could add texts, images, videos, and embeds from various websites. Additionally, I provided support for the lead system and client software of the software factory.
+> Main technologies: Classic ASP, .NET (C#), JavaScript, Node.js, Express, MSSQL.
 
-> Key Technologies: ASP, .NET (C#), Javascript, NodeJS, Express, MSSQL, HTML, CSS
+### 05/2011 - 10/2012 | MM Santos Informática
 
+**Backend Developer | ERP & Integrations**
 
-### 05/2011 to 10/2012 - MM Santos Informática
+-   Development and maintenance of ERP systems.
+-   Implementation of an electronic payslip system.
+-   Project leadership for electronic invoice issuance across 13 stores.
 
-**Backend Developer | ERP and Integrations**
+> Main technologies: Classic ASP, PHP, .NET (C#), SOAP, MSSQL, XML.
 
-I developed new features and maintained the company's ERP system. Among the new functionalities, I implemented an electronic payslip system, eliminating the need for printed versions sent by the accounting department. Additionally, I developed a prepaid mobile credit recharge system integrated with the company's ERP and led a project to develop a solution for issuing electronic invoices covering the network's 13 stores.
+## Languages
 
-> Key Technologies: ASP, PHP, .NET (C#), SOAP, MSSQL, XML, Javascript, CSS, HTML
-
-
-### Languages
 English
