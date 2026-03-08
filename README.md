@@ -123,55 +123,6 @@ Acted as a senior software engineer in the Data & Analytics domain, delivering s
 
 > Main technologies: PHP, Symfony 4, Ionic 3, TypeScript, Python, Selenium, MySQL, SQLite.
 
-### 04/2018 - 09/2018 | CRM Zen
-
-**Full Stack Developer | CRM & Mobile App**
-
--   Development of backend APIs and mobile CRM applications.
--   Implementation of a sales team check-in app with offline support.
--   Publishing of applications to Apple App Store and Google Play.
-
-> Main technologies: PHP, Ionic 3, TypeScript, MSSQL, Classic ASP.
-
-### 12/2017 - 04/2018 | Folha de São Paulo
-
-**PHP Developer | TransFolha**
-
--   Development of back-office logistics solutions.
--   Implementation of customer service systems and operational reports.
-
-> Main technologies: PHP, MySQL, JavaScript, jQuery, Bootstrap, CSS.
-
-### 03/2015 - 12/2017 | Zap Trade IT & ECM Solutions
-
-**PHP Developer | Software Factory**
-
--   Development of multi-tenant ECM and workflow solutions.
--   Served clients such as Riachuelo, Maersk, and Brasil Terminal
-    Portuário.
-
-> Main technologies: PHP, Symfony 2.8, MySQL, Ionic 2, TypeScript, Bootstrap.
-
-### 07/2013 - 03/2015 | CRM Zen / Wsoma Soluções Web
-
-**Classic ASP Developer | CRM & Software Factory**
-
--   Evolution of CRM product with new collaborative features.
--   Development of a multimedia board supporting text, images, and  videos.
--   Implementation of lead management and client system support solutions.
-
-> Main technologies: Classic ASP, .NET (C#), JavaScript, Node.js, Express, MSSQL.
-
-### 05/2011 - 10/2012 | MM Santos Informática
-
-**Backend Developer | ERP & Integrations**
-
--   Development and maintenance of ERP systems.
--   Implementation of an electronic payslip system.
--   Project leadership for electronic invoice issuance across 13 stores.
-
-> Main technologies: Classic ASP, PHP, .NET (C#), SOAP, MSSQL, XML.
-
 ## Languages
 
 English
