@@ -126,63 +126,6 @@ Atuação como engenheiro de software sênior na área de Data & Analytics, prov
 
 > Principais tecnologias: PHP, Symfony 4, Ionic 3, TypeScript, Python, Selenium, MySQL, SQLite.
 
----
-
-### 04/2018 - 09/2018 | CRM Zen
-
-**Desenvolvedor Full Stack | CRM e Mobile App**
-
-- Desenvolvimento de APIs backend e aplicações mobile para CRM.
-- Implementação de app de check-in de equipes de vendas com suporte offline.
-- Publicação de aplicativo nas lojas Apple App Store e Google Play.
-
-> Principais tecnologias: PHP, Ionic 3, TypeScript, MSSQL, ASP Clássico.
-
----
-
-### 12/2017 - 04/2018 | Folha de São Paulo
-
-**Desenvolvedor PHP | TransFolha**
-
-- Desenvolvimento de soluções de backoffice para logística.
-- Implementação de sistemas de atendimento ao cliente e relatórios operacionais.
-
-> Principais tecnologias: PHP, MySQL, JavaScript, jQuery, Bootstrap, CSS.
-
----
-
-### 03/2015 - 12/2017 | Zap Trade IT & ECM Solutions
-
-**Desenvolvedor PHP | Fábrica de Software**
-
-- Desenvolvimento de soluções multi-tenant de ECM e workflow.
-- Atendimento a clientes como Riachuelo, Maersk e Brasil Terminal Portuário.
-
-> Principais tecnologias: PHP, Symfony 2.8, MySQL, Ionic 2, TypeScript, Bootstrap.
-
----
-
-### 07/2013 - 03/2015 | CRM Zen / Wsoma Soluções Web
-
-**Desenvolvedor ASP Clássico | CRM e Fábrica de Software**
-
-- Evolução do produto de CRM com novas funcionalidades colaborativas.
-- Desenvolvimento de board multimídia com suporte a textos, imagens e vídeos.
-- Implementação de soluções de leads e suporte a sistemas de clientes.
-
-> Principais tecnologias: ASP Clássico, .NET (C#), JavaScript, Node.js, Express, MSSQL.
-
----
-
-### 05/2011 - 10/2012 | MM Santos Informática
-
-**Desenvolvedor Backend | ERP e Integrações**
-
-- Desenvolvimento e manutenção de ERP.
-- Implementação de sistema de holerite eletrônico.
-- Liderança de projeto para emissão de nota fiscal eletrônica para 13 lojas.
-
-> Principais tecnologias: ASP Clássico, PHP, .NET (C#), SOAP, MSSQL, XML.
 
 ## Idiomas
 
