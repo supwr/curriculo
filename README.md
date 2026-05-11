@@ -25,7 +25,7 @@ Conclusão: 12/2009
 - Desenvolvimento de microsserviço responsável pela integração com a parceira Zapay, viabilizando consulta e pagamento de débitos veiculares diretamente no aplicativo da Creditas.  
 - Desenvolvimento em Go de microsserviços de integração com afiliados, parte do ecossistema de cashback, integrando plataformas como Amazon, Magazine Luiza e Casas Bahia.  
 - Participação na definição de arquitetura e implementação dos microsserviços do produto de empréstimo coletivo, especialmente nas jornadas de solicitação de empréstimo e investimento.  
-- Atuação como desenvolvedor e líder técnico na evolução do sistema de autoatendimento de uma grande varejista de móveis, incluindo a implementação da feature de outlet, responsável por aumento de 13% nas vendas das lojas físicas em 2021.  
+- Atuação como desenvolvedor e líder técnico na evolução do sistema de autoatendimento de uma grande varejista de móveis, incluindo a implementação da feature de outlet.
 
 ## Conhecimentos
 
